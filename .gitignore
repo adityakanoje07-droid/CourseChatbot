@@ -1,0 +1,12 @@
+# Ignore local environment keys
+.env
+api key.ipynb
+data.ipynb
+
+# Ignore python caches and virtual environments
+__pycache__/
+venv/
+*.pyc
+
+# Ignore root-level duplication database files if they are just loose files
+chroma.sqlite3
