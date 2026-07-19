@@ -15,8 +15,19 @@ app = Flask(__name__)
 
 
 
+# Fetch your credentials from the Vercel environment variables
+CHROMA_KEY = os.getenv("CHROMA_API_KEY")
+CHROMA_TENANT = os.getenv("CHROMA_TENANT")
+CHROMA_DB = os.getenv("CHROMA_DATABASE")
+
 # Initialize CloudClient with explicit configurations
-chroma_client = chromadb.CloudClient()
+chroma_client = chromadb.CloudClient(
+    cloud_host="api.trychroma.com",
+    cloud_port=443,
+    api_key=CHROMA_KEY,
+    tenant=CHROMA_TENANT,
+    database=CHROMA_DB
+)
 
 
 
