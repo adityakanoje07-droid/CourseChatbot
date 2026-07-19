@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 
 # Initialize CloudClient with explicit configurations
-chroma_client = chromadb.CloudClient(
+chroma_client = chromadb.CloudClient()
 
 
 
