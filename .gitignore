@@ -7,6 +7,3 @@ data.ipynb
 __pycache__/
 venv/
 *.pyc
-
-# Ignore root-level duplication database files if they are just loose files
-chroma.sqlite3
