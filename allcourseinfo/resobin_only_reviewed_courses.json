@@ -1,0 +1,1004 @@
+[
+    {
+        "code": "AE102",
+        "title": "Data Analysis and Interpretation",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "",
+        "credits": 6,
+        "category": "",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": []
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory"
+        ],
+        "reviews_count": 2,
+        "resources_count": 11,
+        "favorited_by_count": 37,
+        "review_requesters_count": 203,
+        "resource_requesters_count": 120,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "7e80babd-5591-47fd-91c0-3477c6f5c65b",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "AE102",
+                "parent": null,
+                "body": "<b>Course Name:</b> AE102<br/>\n<b>Review By:</b> Yeesha Kalal<br/>\n<b>Name of the Prof:</b> Prof Mayukh Mukharjee<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> 0<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 4<br/>\n<b>Grading Scheme:</b> -<br/>\n<b>Time spent on course(hours per week):</b> 14<br/>\n<b>Pre-requisites(if any):</b> none<br/>\n<b>Overview(Expect to learn and future prospects):</b> This is an important as well as enjoyable core course. Former because the Python skills learnt will be used in several assignments of future courses & latter because the basics are really easy & the profs made it feel like learning a game. The maths also takes off from very easy basics to explain complex concepts later on. Both theory & evaluation gets pretty tough once basics are covered so pay attention from the start. The lectures are interactive so I doubt one can sleep in them, hence just make notes & ask your doubts.<br/>\n<b>Course Rating:</b> 4<br/>",
+                "timestamp": "2022-12-19T15:55:40.343714+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    },
+    {
+        "code": "AE153",
+        "title": "Introduction to Aerospace Engg.",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "Historical Developments in Aviation, Aviation milestones, Components of an aircraft, Types of aerial vehicles. Basic Aerodynamics: Fluid dynamic equations & their basis, Ideal fluid, viscous flows, Flow past a body, Flow Separation, Generation of Lift, Drag & Moment, Non-dimensional coefficients, Airfoils & Wings, Aerofoil families, Supersonic flight, Wave Drag, Aircraft Drag Polar, Properties of atmosphere: ISA, IRA, Pressure altitude, Altimeter; Aircraft speeds TAS, EAS, CAS, IAS Types of Powerplant for aerospace vehicles, Thrust/Power and fuel flow variation with altitude & velocity. Role & Layout of structural members in an aircraft. Aircraft Performance: Steady level flight, Altitude effects, Absolute ceiling, steady climbing flight, Energy methods, Range and Endurance, Sustained level turn, pull-up,Take off and landing. Aircraft Operations: Introduction to Airports, Avionics Equipment, Precision aids, Separation minima, Air Route structure, Navigation and Guidance. Introduction to Space flight: Types of trajectories, Types of missiles, Launch vehicles, Satellites.",
+        "credits": 6,
+        "category": "Interdisciplinary STEM Course.",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": [
+                    {
+                        "id": 9596,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "AE153",
+                        "division": "Minor",
+                        "lecture_slots": [
+                            "10A",
+                            "10B"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LC 202",
+                        "professor": "Vasudeva Raghavendra Kowsik Bodi"
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": [
+                    {
+                        "id": 8633,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "AE153",
+                        "division": "Minor",
+                        "lecture_slots": [
+                            "5A",
+                            "5B"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LA 001",
+                        "professor": "Rajkumar Sureshchandra Pant"
+                    }
+                ]
+            }
+        ],
+        "tags": [
+            "Minor",
+            "Theory"
+        ],
+        "reviews_count": 2,
+        "resources_count": 0,
+        "favorited_by_count": 6,
+        "review_requesters_count": 9,
+        "resource_requesters_count": 7,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "6b6aaade-541a-484b-ab24-b2aaf52ae993",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "AE153",
+                "parent": null,
+                "body": "<h4 id=\"instructor\">Instructor</h4>\n<p>Prof. Rajkumar S. Pant (R. K. Pant)</p>\n\n<h4 id=\"semester\">Semester</h4>\n<p>Autumn ‘19</p>\n\n<h4 id=\"course-difficulty\">Course Difficulty</h4>\n<p>Course content is not difficult.</p>\n\n<h4 id=\"time-commitment-required\">Time Commitment Required</h4>\n<p>Other than class hours, approx. 2 hours per week is required to go through the content before the class.</p>\n\n<h4 id=\"grading-policy-and-statistics\">Grading Policy and Statistics</h4>\n<p>Grading is not so chill and it depends on the overall class’s performance as well as the performance of you and your group (There are several group projects), also the peer reviews.</p>\n\n<h4 id=\"attendance-policy\">Attendance Policy</h4>\n<p>Attendance is quite rigid, Professor expects everyone to attend all the classes. Professor may or may not keep some marks for attendance. Moreover, it is highly suggested to attend each class, as the class is so much interesting and also the quiz content is mostly from the class discussions.</p>\n\n<h4 id=\"pre-requisites\">Pre-requisites</h4>\n<p>The only pre-requisite you need, to take this course is “Interest in the aerospace domain”.</p>\n\n<h4 id=\"evaluation-scheme\">Evaluation Scheme</h4>\n<p>Approximately half of the weightage is of Course Projects and half of quizzes.</p>\n\n<h4 id=\"topics-covered-in-the-course\">Topics Covered in the Course</h4>\n<p>Course content involves Basics of Aerodynamics using simple equations and a lot of illustrations, Different types of aircraft and other aerodynamic machines, their basic structure and working and their current real-world scenario, case studies related to aircraft accidents, aircraft Operations and their working atmosphere, and many more interesting topics, covering some of their basic knowledge.</p>\n\n<h4 id=\"teaching-style\">Teaching Style</h4>\n<p>Teaching style of the professor is very good. The class usually runs in Inverse Classroom mode, in which students are provided with the class content before the class, they have to study that content, and there are video representations and fruitful discussions in the class hours.</p>\n\n<h4 id=\"tutorialsassignmentsprojects\">Tutorials/Assignments/Projects</h4>\n<p>There are mainly Group assignments and Projects. The project topics are interesting and fun, they also involve so much learning as well as hands-on work (especially in glider making competition, in the offline scenario).</p>\n\n<h4 id=\"feedback-on-exams\">Feedback on Exams</h4>\n<p>There are only Quizzes and Assignments/Projects. No Midsem or Endsem. Quizzes are of multiple choice questions type and are not so difficult. You just have to attend classes sincerely to score very good in the Quizzes.</p>\n\n<h4 id=\"motivation-for-taking-this-course\">Motivation for taking this course</h4>\n<p>The course is so much interesting and fun, it teaches most of the basics of aerodynamics and generates interest in this field. The group project members are students from different domains such as Undergrads, Masters, Air Force, DRDO, etc., which improves our interactive skills and team coordination.</p>\n\n<h4 id=\"course-highlights\">Course Highlights</h4>\n<p>Course projects (which are fun, knowledgeable and highly exploratory, especially glider making competition)</p>\n\n<h4 id=\"course-importance\">Course Importance</h4>\n<p>Course is very important to start any study in the aerospace domain, it is also a pre-requisite to various courses in the Aerospace Department.</p>\n\n<h4 id=\"how-strongly-would-i-recommend-this-course\">How strongly would I recommend this course?</h4>\n<p>If you are interested in Aerospace minor or even want to know something about Aerospace domain, I would strongly recommend taking this course.</p>\n\n<h4 id=\"when-to-take-this-course\">When to take this course?</h4>\n<p>I took this course as the starting course of my Minor in Aerospace Engineering. The ideal semester to take this course is 3rd semester.</p>\n\n<h4 id=\"going-forward\">Going Forward</h4>\n<p>You can literally take any other Aerospace course offered to you after this course, you will find it easy to continue after doing this course. AE 240 (Spaceflight Mechanics), AE 332 (Aircraft Design) are some courses, which can be taken in future.</p>\n\n<h4 id=\"references-used\">References Used</h4>\n<p>Class material (Lecture slides and video illustrations) is enough to understand the course content.</p>\n\n<h4 id=\"other-remarks\">Other Remarks</h4>\n<p>The course is very good, interesting and fun, worth taking.</p>\n\n<h4 id=\"interesting-relevant-links\">Interesting relevant links</h4>\n<p>https://youtu.be/w78JT6azrZU</p>\n\n<p><em>Review By:</em> Utkarsh Sahu</p>\nWe thank the Mechanical DAMP team for this review",
+                "timestamp": "2022-12-18T01:19:13.100454+05:30",
+                "pinned": false,
+                "voters_count": 3
+            }
+        ]
+    },
+    {
+        "code": "AE227",
+        "title": "Solid Mechanics",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "Introduction: Engg. statics vs solid mechanics, solid as a continuum, statement of a general solid mechanics problem. Elements of 2-D & 3-D Elasticity: components of stress & strain fields, stress/strain transformation, principal stresses, plane stress/strain, Mohr??s circle, equilibrium equations, strain displacement relations, compatibility conditions, natural & kinematic boundary conditions, stress-strain relations, generalized Hooke??s Law - isotropy, orthotropy, anisotropy. Displacement and force methods of analysis. Concepts of linear and nonlinear problems. Illustration of linear elasticity solutions - problems in 2-D (rectangular and polar co-ordinates), stress function approach. St. Venant??s principle. Material behaviour: introduction to metallic and non-metallic materials of aerospace interest, awareness/overview of structure of materials. Ductile, brittle, elasto-plastic and viscoelastic material behaviour - Elastic and strength properties. Composite materials. Materials selection. Failure of engineering materials, failure theories, concepts of fatigue, fracture and creep. 1-D structural analysis: slender structural elements, assumptions simplifying the general (3-d) stress, strain and deformation fields for uncoupled axial deformation, uncoupled bending, and uncoupled twisting of slender 1-D elements and development of corresponding elementary theories (Elementary Beam Theory, Elementary Torsion theory), idealization of general loads into axial forces, bending moments, shear forces and torque distributions, deflection and stress analysis of rods, beams and circular shafts. Introduction to energy methods ?? strain energy, virtual work, minimum potential energy and its application. Measurement of strain and displacement. Measurement of elastic and strength properties. ASTM standards.",
+        "credits": 6,
+        "category": "",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": []
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": [
+                    {
+                        "id": 8636,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "AE227",
+                        "division": "Core",
+                        "lecture_slots": [
+                            "1A",
+                            "1B",
+                            "1C"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LC 002",
+                        "professor": "Krishnendu Haldar"
+                    },
+                    {
+                        "id": 8637,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "AE227",
+                        "division": "Minor",
+                        "lecture_slots": [
+                            "1A",
+                            "1B",
+                            "1C"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LC 002",
+                        "professor": "Krishnendu Haldar"
+                    }
+                ]
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Core"
+        ],
+        "reviews_count": 1,
+        "resources_count": 1,
+        "favorited_by_count": 7,
+        "review_requesters_count": 5,
+        "resource_requesters_count": 4,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "87583212-a76d-46cf-82bd-1356a209cd64",
+                "user_profile": {
+                    "id": "eadd9c27-5051-43ac-bf93-ada69da8544c",
+                    "name": "Samanth Martis",
+                    "ldap_id": "23b0046",
+                    "profile_picture": null
+                },
+                "course": "AE227",
+                "parent": null,
+                "body": "<h1>Course review</h1><p><br></p><h2>Details</h2><ul><li><strong>Year and semester taken: </strong>2024 Sem 1 - 2nd Year</li><li><strong>Professor:</strong> Prof. Krishnendu Haldar</li><li><strong>Attendance criteria:</strong> </li></ul><p> \t\tProf had a mini-5-minute quiz per class. Involved solving one question sometime near the end of the class regarding the topic taught on that day or the day before. The questions weren't hard, but did require you to understand the material taught and pay attention. </p><ul><li><strong>Time spent on course: </strong>Varies. Depending on the material taught in the week. </li><li><strong>Overall rating (on 10): </strong>9.5</li></ul><p><br></p><h2>Prerequisites necessary (if any)</h2><p>Linear algebra,  calculus, linear algebra + calculus and some more linear algebra. </p><p>Calculus is important to physically understand the properties that the terms represent, while LA is needed to understand the relations and operations. </p><p>Please review 3B1B LA series. </p><p><br></p><p><br></p><h2>Course difficulty</h2><p>The per-class quizzes were not very hard as prof usually provided hints. You needed to keep up with the course regularly, however.</p><p>The Midsem was of moderate difficulty. The concepts were covered in detail in class.</p><p>There was one quiz before the endsem.</p><p>The Endsem was, as of popular opinion, quite hard. The difficulty was unlike the other tests(by an order of magnitude) and required a decent amount of thoroughness with the material. </p><p><br></p><p>The course is a math-heavy course, no doubt. Involves a lot of linear algebra, which may not be the most comfortable subject for many. A good understanding of the topic already covered in previous classes is necessary to understand the material taught in the following class.<em><u> Missing one class has a cascading effect.</u></em></p><p>It does take a good bit of practice to get comfortable with the summation convention and tensors + their physical representation. This is the make-or-break step for many future topics.</p><p><br></p><p><br></p><p>Overall, this course is not easy and should not be taken lightly. </p><p><br></p><h2>Overview</h2><p>The course essentially starts with basic descriptions of material laws before going into the summation convention, which is the first major new thing taught that requires practice. Following this, Tensors and different types, properties and operations on tensors are defined. </p><p>Once the mathematical preliminaries are done, Strain and Stress are taught from the perspective of tensors. A lot of material here. Next, constitutive relations are explored, followed by yield criteria. </p><p>The last topic is beam theory, where concepts taught till then are used to derive equations of beams that will be used in the next-semester courses as well</p><p><br></p><p>The course is quite important for doing anything in structures. It builds up the requirement from the ground up and makes you ready for other courses like AE238: Aerospace Structural Mechanics, AE6104: Nonlinear Elasticity, etc. </p><p><br></p><h2>Personal opinion</h2><p>I would highly recommend this course (it's not like aero sophies have a choice:) It's a core course)</p><p>The professor teaches very well and is very receptive to questions and doubts. For me, as a sophie, it was the first 'proper engineering' course. </p><p><br></p>",
+                "timestamp": "2025-07-13T01:30:40.293182+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    },
+    {
+        "code": "AE240",
+        "title": "Spaceflight Mechanics",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "Introduction: Space missions and role of launch vehicles and spacecraft, Historical Perspective. Ascent Mission: Ascent mission objectives, mathematical models governing ascent mission, rectilinear and gravity turn ascent trajectories, effect of aerodynamic drag and gravity on ascent mission performance. Multi-stage Launch Vehicles: Concept of multi-staging, staging solution sensitivity analysis, series and parallel staging configurations, optimal staging solutions. Launch Vehicle Attitude Motion: Short period attitude motion models, nature of attitude response to atmospheric disturbances. Basic Orbital Solution: Two-body Problem solution, Keppler`s laws & equation, classical orbital elements, orbit determination from initial conditions, position and velocity prediction from orbital elements, different types of orbits, perturbation due to earth oblateness and solar radiation pressure, non-Keplerian formulation and restricted 3-body problem, sphere of activity & Roche’ limit. Satellite Operations: Orbit raising manoeuvre, Hohmann and low thrust transfer manoeuvres, orbit inclination change maneuver, orbit perigee change manoeuvre, launch to orbit and docking manoeuvres, launch window concept. Spacecraft Motion: Interplanetary motion basics, departure and arrival solutions, planetary transfers, gravity assist trajectories. Descent Mission: Orbit decay solution, concept of re-entry mission, ballistic and other reentry mechanisms. Spacecraft Attitude Motion: Torque-free motion models, effect of energy dissipation on stability of rotational motion, overview of actuation mechanisms for attitude control.",
+        "credits": 6,
+        "category": "",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": []
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Core"
+        ],
+        "reviews_count": 1,
+        "resources_count": 0,
+        "favorited_by_count": 4,
+        "review_requesters_count": 4,
+        "resource_requesters_count": 2,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "23ac6e77-cdcd-4fc5-8929-11af8d55b24a",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "AE240",
+                "parent": null,
+                "body": "<h4 id=\"instructor\">Instructor</h4>\n<p>Ashok Joshi</p>\n\n<h4 id=\"semester\">Semester</h4>\n<p>Spring ‘20</p>\n\n<h4 id=\"course-difficulty\">Course Difficulty</h4>\n<p>The course content is not that difficult, it’s a scale-up of basic physics and mathematics but continuous evaluation with surprise class tests and the course project make it a little more difficult than moderate. The knowledge required to make a good course project is sometimes more than what is covered in the course and hence it requires extra effort and studying from different sources.</p>\n\n<h4 id=\"time-commitment-required\">Time Commitment Required</h4>\n<p>As mentioned before, it requires continuous involvement for class tests and  extra effort for the course project. But then, most of the preparation for the Quizzes and Midsem/Endsem is done by this already.</p>\n\n<h4 id=\"grading-policy-and-statistics\">Grading Policy and Statistics</h4>\n<p>Grading is Fine, with an average performance getting a BB or AB is easy, AA needs a bit more than just attending lectures and studying before exams, to be precise it needs problem solving, past year question/ tutorial practice, and some additional studying from various resources.</p>\n\n<h4 id=\"attendance-policy\">Attendance Policy</h4>\n<p>No attendance/No DX grade but then to catch the surprise test you need to attend lectures, at least those lectures in which the probability of happening of a class test is high. (After 2-3 weeks professor would announce that “we would have a class test on every “say Thursday” of the week etc.)</p>\n\n<h4 id=\"pre-requisites\">Pre-requisites</h4>\n<p>No prerequisites but a good knowledge and practice of conic sections and calculus can be advantageous.</p>\n\n<h4 id=\"evaluation-scheme\">Evaluation Scheme</h4>\n<p>2 Quizzes - 10%Each, <br>\nMidsem &amp; Endsem - 20%Each, <br>\n15 Class tests (10 best considered) -  2% each, and <br>\nCourse Project - 20%.</p>\n\n<h4 id=\"topics-covered-in-the-course\">Topics Covered in the Course</h4>\n<p>Introduction : History of flight and space exploration.<br>\nModelling the environment and forces : Models for Earth, Gravity, Drag, Propulsion etc.<br>\nLiftoff and Ascent Phase : Idealized performance, vertical trajectory, Impact of Gravity, Impact of Drag, and Superposition of all effects.<br>\nCurvilinear Motion/Trajectory : Constant Pitch rate, Velocity, Specific Thrust turning maneuvers.<br>\nCreating variants and Staging : Multistage rockets, Parallel and series staging, mixed staging, optimal staging and tradeoffs in staging.<br>\nTrajectory and Path Planning : Planetary, Two body and central force model, Kepler’s Laws. <br>\nOrbits : Elliptical, Circular, Parabolic, and Hyperbolic Paths, their time and position solutions, time of flight, equations, elevation, inclination, etc.<br>\nOrbital Maneuvers : Orbit injection, Orbit shape and size change, rotation and transfer maneuvers.<br>\nExtras : Interplanetary travel, Flybys, and Docking mechanisms.</p>\n\n<h4 id=\"teaching-style\">Teaching Style</h4>\n<p>Live lectures conducted on Microsoft Teams with recording available, Tutorials and Problem solving used to happen in between the lectures itself. Last 15 minutes of every Thursday’s lecture time was for class tests. Exams were conducted with proctoring via MS Teams and Submissions on Moodle. All the course material was available on Moodle.</p>\n\n<h4 id=\"tutorialsassignmentsprojects\">Tutorials/Assignments/Projects</h4>\n<p>Problem solving and examples were taken after every topic and after the completion of every major section a tutorial was given, which was discussed by the TAs a week later. Course Project was about analysing and replicating a previously done space mission, it was interesting as well as pretty time consuming but adds a lot to the learning. Class tests are super easy, you just need to be aware of the content in the lecture slides.</p>\n\n<h4 id=\"feedback-on-exams\">Feedback on Exams</h4>\n<p>Exams were of moderate level based on difficulty but required thorough knowledge and good amount of practice to correctly finish in time.</p>\n\n<h4 id=\"motivation-for-taking-this-course\">Motivation for taking this course</h4>\n<p>My motivation to take this course was my interest in space exploration. I had previously done several online courses in this field, so I wanted to explore the field in a little more depth. Also this course is at the boundary of the mechanical and aerospace department, and given an overview for a lot of small specialization fields.</p>\n\n<h4 id=\"course-highlights\">Course Highlights</h4>\n<p>If you are more into classical mechanics, you’ll enjoy it.</p>\n\n<h4 id=\"course-importance\">Course Importance</h4>\n<p>This course is a good point to start for those who are interested in the mechanical side of aerospace engineering, space missions etc. This course includes an overview of the major verticals of Aerospace engineering.</p>\n\n<h4 id=\"how-strongly-would-i-recommend-this-course\">How strongly would I recommend this course?</h4>\n<p>I would strongly recommend this course to people who are genuinely interested in the field or want to explore outside of their parent department. But if you wanna take a course to fulfill your credit requirements or to improve your CPI, this is not a course you should take.</p>\n\n<h4 id=\"when-to-take-this-course\">When to take this course?</h4>\n<p>Since its a basic level/introductory course it’s good to take this course in the 4th semester so that if you build strong interest in the field you have time to take advanced courses of the same. Also this course runs mostly in the even/spring semester so going till 6th semester for taking this course would be a little late. This course is part of the list of courses for Aerospace minor and hence if you are taking it as a minor course then the ideal semester to take it would depend upon how you have planned to complete your minor itself.</p>\n\n<h4 id=\"going-forward\">Going Forward</h4>\n<p>There are several Propulsion and Flight related courses in AE  and ME that can be taken after this course to get into the field. (AE223, AE234, AE305, AE332, AE330, AE333, etc.)</p>\n\n<h4 id=\"references-used\">References Used</h4>\n<p>The physics of spaceflight - Walter, Ulrich (Springer)<br>\nSpaceflight Dynamics - William E Weisel (McGraw Hill)<br>\nIntroduction to space dynamics - William Tyrrel Thompson<br>\nOrbital Mechanics for Engineering Students - Howard D Curtis</p>\n\n<h4 id=\"other-remarks\">Other Remarks</h4>\n<p>As I mentioned before it’s a really interesting course but only when you are actually into the field, otherwise it can get a little difficult at the end to manage. But I would still recommend this course to those who want to explore the AE department because this course includes an overview of the major verticals of Aerospace.</p>\n\n<h4 id=\"interesting-relevant-links\">Interesting relevant links</h4>\n<p>Course introduction video on NPTEL : https://www.youtube.com/watch?v=Pqi6dMrtB0E</p>\n\n<p><em>AE 240 Review By:</em> Bishop Prakash</p>\nWe thank the Mechanical DAMP team for this review",
+                "timestamp": "2022-12-18T01:19:13.578208+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    },
+    {
+        "code": "AE308",
+        "title": "Control Theory",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "Introduction: Control situations & control objectives, broad control tasks, open-loop and closed-loop control concept, various types of control structures, unity negative feedback control systems, basic control actions. Two-position Control Systems: On-off control concept and action of an ideal relay, 1st and 2nd order system on-off control, effect of hysteresis on the closed-loop control performance, relay modelling. System response: Response of higher order systems to standard and generic inputs in Laplace and time domains, concept of partial fractions. System Stability: Concept of system stability and connection with its response, asymptotic and bounded-input bounded-output stability, role of characteristic roots in stability, Routh’s criterion for absolute and relative stability analysis, including unknown parameter based stability. Proportional Control Systems: Proportional control action modelling, stability and response of proportional control systems, concept of root locus and its application to proportional control system analysis. Frequency Response: Concept of frequency domain and frequency response, response representation using bode, Nyquist and Nichol’s plots, closed-loop system analysis using frequency response attributes, Nyquist stability analysis. Closed-loop Response Attributes: Transient and steady-state response concept, tracking control task and closed-loop error constants, integral control option for tracking, transient response and role of derivative action. Closed-loop Response Control Elements: PI controllers and lag compensators for tracking control tasks, PD controllers and lead compensators for transient response control tasks, PID controllers and lag-lead compensators for complex control tasks. Design of Closed-loop Control Systems: Closed-loop performance specifications, gain and phase margins as design specifications, use of root locus, Bode plots, Nyquist plots and Nichol’s plots in closed-loop control design, design rules, methodologies and guidelines for different types of control tasks.",
+        "credits": 6,
+        "category": "",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": []
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": [
+                    {
+                        "id": 8642,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "AE308",
+                        "division": "Core",
+                        "lecture_slots": [
+                            "4A",
+                            "4B",
+                            "4C"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LC 302",
+                        "professor": "Rohit Vishwajit Nanavati"
+                    },
+                    {
+                        "id": 8643,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "AE308",
+                        "division": "Minor",
+                        "lecture_slots": [
+                            "4A",
+                            "4B",
+                            "4C"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LC 302",
+                        "professor": "Rohit Vishwajit Nanavati"
+                    }
+                ]
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Core"
+        ],
+        "reviews_count": 1,
+        "resources_count": 2,
+        "favorited_by_count": 8,
+        "review_requesters_count": 14,
+        "resource_requesters_count": 21,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "dd3f1d0a-df16-47ee-a810-1f6d69ed09bf",
+                "user_profile": {
+                    "id": "eadd9c27-5051-43ac-bf93-ada69da8544c",
+                    "name": "Samanth Martis",
+                    "ldap_id": "23b0046",
+                    "profile_picture": null
+                },
+                "course": "AE308",
+                "parent": null,
+                "body": "<h1>Course review</h1><p><br></p><h2>Details</h2><ul><li>Year and semester taken: 2024 Sem 1 (Sem 3 for me)</li><li>Professor: Shashi Ranjan Kumar</li><li>Attendance criteria: No attendance taken</li><li>Time spent on course (h/week): 4 (not including classes)</li><li>Overall rating (on 10): 6</li></ul><p><br></p><h2>Prerequisites necessary (if any)</h2><p>NA</p><p><br></p><h2>Course difficulty</h2><p>The quizzes and exams were not very difficult in terms of content. However, a lot of error-free calculation is required to solve many questions which is not easy.</p><p>The course content itself is fairly novel to most students, which adds to its difficulty. Tutorial sessions are conducted before exams which are very helpful.</p><p>One positive note is that while the concepts are new, they are not vast. Just a few repeated ideas are applied over and over in different forms, so understanding the fundamentals helps and simplifies everything else. Supplementing the lectures with YouTube lectures and/or other sources of information to understand things like Laplace transforms is recommended.</p><p><br></p><p><br></p><h2>Overview</h2><p>This course teaches a lot of important topics that are used in controls, robotics and many other fields, even those not related to Aerospace. It is a must-take course as it is the starting point and prerequisite for the advanced controls course.</p><p><br></p><h2>Personal opinion</h2><p>I found the concepts taught here interesting, bordering mostly on the mathematical side.  Personally, I was not a fan of the course delivery by the prof. and learnt the curriculum from NPTEL, as I preferred the video format and teaching method there. The NPETL course(available on youtube) Control System has an identical curriculum and I used that. However, to each their own.</p><p>Whatever your source of information for the lectures, I highly recommend not skipping the tutorial and TSC sessions, even if you have no idea what's going on. The TAs were quite helpful and cleared out your doubts, no matter how 'basic' they were. </p><p><br></p><p><br></p><p><br></p><p><br></p>",
+                "timestamp": "2025-07-13T02:24:38.536652+05:30",
+                "pinned": false,
+                "voters_count": 1
+            }
+        ]
+    },
+    {
+        "code": "AE484",
+        "title": "Finite Element Method",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "Basics of finite element method; The standard discrete system; Variational methods of approximation: Rayleigh- Ritz method and Method of Weighted Residuals; Problems in Linear Elasticity; Variational Forms and Weak Forms of Finite Element Approximation: 1-D Problems (bar, Euler-Bernoulli beam, Timoshenko beam); Discussion on shear locking problem; Constraint equations; Standard 2- and 3 dimensional finite elements; Isoparametric elements; Nonconforming elements; Numerical integration; Reduced integration; Numerical errors and convergence; Introduction to finite element method in dynamics and vibrations; Computer implementation of the finite element models.",
+        "credits": 6,
+        "category": "",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": []
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Elective",
+            "Electives"
+        ],
+        "reviews_count": 2,
+        "resources_count": 0,
+        "favorited_by_count": 1,
+        "review_requesters_count": 0,
+        "resource_requesters_count": 0,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "0a7a2d92-db52-438c-ac11-d968d81540c4",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "AE484",
+                "parent": null,
+                "body": "\n        <span>\n            Note: This review was automatically scrapped from a DAMP blog. To read the complete review, kindly\n            <a href=\"https://dampdeseiitb.wordpress.com/2021/07/18/ae-484-finite-element-method/\" target=\"_blank\">visit their site.</a>\n        </span>\n        <br />\n        <br />\n    <p><strong>Name</strong><strong></strong></p>\n<p>Shaunak Joshi</p>\n<p><strong>Course Code</strong><strong></strong></p>\n<p>AE484</p>\n<p><strong>Course Name </strong></p>\n<p>Finite Element method</p>\n\n        <br />\n        <a href=\"https://dampdeseiitb.wordpress.com/2021/07/18/ae-484-finite-element-method/\" target=\"_blank\">Click here to continue reading</a>\n    ",
+                "timestamp": "2022-12-19T15:55:41.113509+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "9d17570d-e39c-43f8-8ef8-21cea978c96b",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "AE484",
+                "parent": null,
+                "body": "\n        <span>\n            Note: This review was automatically scrapped from a DAMP blog. To read the complete review, kindly\n            <a href=\"https://dampdeseiitb.wordpress.com/2021/07/18/ae-484-finite-element-method/\" target=\"_blank\">visit their site.</a>\n        </span>\n        <br />\n        <br />\n    <p><strong>Name</strong><strong></strong></p>\n<p>Shaunak Joshi</p>\n<p><strong>Course Code</strong><strong></strong></p>\n<p>AE484</p>\n<p><strong>Course Name </strong></p>\n<p>Finite Element method</p>\n\n        <br />\n        <a href=\"https://dampdeseiitb.wordpress.com/2021/07/18/ae-484-finite-element-method/\" target=\"_blank\">Click here to continue reading</a>\n    ",
+                "timestamp": "2022-12-19T15:55:40.738750+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    },
+    {
+        "code": "AE6102",
+        "title": "Parallel Scientific Computing and Visualization",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "- Introduction to scientific computing with high-level languages. - Efficient use of arrays for vectorized computation. - Using modern tools for improved performance - Simple plotting and animation - Three dimensional plotting of scientific data - Using VTK and Mayavi for 3D visualization - Introduction to other popular visualization tools like ParaView - Basci OpenGL for simple but fast rendering. - Basic debugging and profiling - High- level parallel computing on multi-core CPUs and GPUs: -Programming using parallel primitives : map, reduce, and scans. - Introduction to other high-level parallel computation packages. -Brief introduction to distributed computing with MPI. -Introduction to differentiable programming. -Building simple UIs for scientific computing -Automation and reproducibility of scientific computing workflows. - Case study of how these can be put together to build a modern, HPC package, and perform reproducible research. The course will only introduce and make use of open source software. Many practical problem will be introduced and used throughout the course.",
+        "credits": 6,
+        "category": "",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": []
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [],
+        "reviews_count": 1,
+        "resources_count": 0,
+        "favorited_by_count": 1,
+        "review_requesters_count": 0,
+        "resource_requesters_count": 0,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "604007c6-0f67-415e-beea-897c968139c5",
+                "user_profile": {
+                    "id": "125e9c32-8aa7-40a6-a57e-e14df23e8c78",
+                    "name": "Kalash Setu Shah",
+                    "ldap_id": "200100079",
+                    "profile_picture": "https://gymkhana.iitb.ac.in/profiles/media/profile_picture/6544265073f049678ca612aa9405e13a.jpg"
+                },
+                "course": "AE6102",
+                "parent": null,
+                "body": "<p>I had taken the course during the Spring semester of '23 taken by <strong>Prof. Prabhu Ramachandran</strong>. Overall, it is an excellent course with a very steep learning curve and is almost completely hands-on along with a project.</p><p><br></p><p><strong>Major Topics </strong></p><ol><li>Good Coding Practices in Python - Using modular code, pep-8 style coding, efficient use of command line arguments</li><li>Efficient use of Numpy Vectorization &amp; Broadcasting</li><li>High - Performance computing using Numba in Python</li><li>Basic Parallel Computing algorithms using Compyle</li><li>3-D &amp; scientific visualizations in Mayavi</li></ol><p><br></p><p><strong>Other Small Topics</strong></p><ol><li>Optimisation Guide for serial codes</li><li>Use of Automan for running several simulations</li><li>Use of Python debugger</li><li>Distributed computing using mpi4py</li></ol><p><br></p><p><strong>Who Should Take This </strong>- </p><p>I would recommend everyone to take this course as the only prerequisite is just basic Python coding and the course delivery is amazing and flawless, though the course is naturally inclined to people involved in scientific computing. </p><p><br></p><p><strong>Workload &amp; Grading</strong></p><p><em>Best 6/8 Assignments (40%)</em> - We had 8 assignments throughout the semester with a week to solve them. They would be typically applications of what sir taught in the class and would take about 2-3 hours to be solved.</p><p><em>Project (45%) - </em>Projects began after the mid-sem week and the presentations were organized a week after the end-sems. Regular project updates were taken by the professor on a bi-weekly basis and hence it was important to work on the project regularly. </p><p><em>Endsem(15%) </em>- A completely conceptual 2 hour exam involving a coding question.</p><p>For detailed grading stats, please refer to asc, though Prabhu sir typically follows a Gaussian grading scheme.</p><p><br></p><p><strong>Time Commitment</strong></p><p>Overall the time commitment for the course is (including the lectures):</p><ol><li>6 hours before the mid-sem week</li><li>6-8 hours after the mid-sem week due to project</li></ol>",
+                "timestamp": "2023-05-04T13:43:18.281117+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    },
+    {
+        "code": "AE651",
+        "title": "Aerodynamics of Compressors and Turbines",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "Axial Flow Compressor : Work done, pressure-rise, Losses and efficiency, the blade shape, stagger and solidity; Incidence and deviation angles; Transonic/Supersonic blades - shock structures; Blade design on a meridional plane; Vortex Laws - radial distribution; Blade element method of design of stage; Characteristic plots; Multistaging and Matching of stages. Centrifugal compressor : Flow pattern in Impellers; work done, losses and efficiency; Slip factor and degree of reaction; Design choices for impeller vanes: backward, forward curved and Radial; Vaned/Vaneless Diffuser, Axial Flow Turbine: Work extraction; Loading limits, Stator and Rotor - subsonic and supersonic profiles, Reaction and radial variation; Blade cooling techniques; Blade element method of design of stage; Radial Flow Turbine:Work done in impeller, Loading -temperature limits; Losses and efficiency.",
+        "credits": 6,
+        "category": "Interdisciplinary STEM Course.",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": [
+                    {
+                        "id": 9622,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "AE651",
+                        "division": "Core",
+                        "lecture_slots": [
+                            "2A",
+                            "2B",
+                            "2C"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LT 205",
+                        "professor": "Pradeep Amboor Madathil"
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory"
+        ],
+        "reviews_count": 1,
+        "resources_count": 4,
+        "favorited_by_count": 2,
+        "review_requesters_count": 0,
+        "resource_requesters_count": 1,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "b145416e-e269-43eb-8972-c562e1c450bf",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "AE651",
+                "parent": null,
+                "body": "<h4 id=\"instructor\">Instructor</h4>\n<p>Prof A M Pradeep</p>\n\n<h4 id=\"semester\">Semester</h4>\n<p>Autumn ‘20</p>\n\n<h4 id=\"course-difficulty\">Course Difficulty</h4>\n<p>Course is a bit involved and will be tough to tackle if not regular with classes.</p>\n\n<h4 id=\"time-commitment-required\">Time Commitment Required</h4>\n<p>About two hours per week apart from lecture hours.</p>\n\n<h4 id=\"grading-policy-and-statistics\">Grading Policy and Statistics</h4>\n<p>Absolute grading</p>\n\n<h4 id=\"attendance-policy\">Attendance Policy</h4>\n<p>No attendance policy</p>\n\n<h4 id=\"pre-requisites\">Pre-requisites</h4>\n<p>Thermodynamics, heat transfer and fluid mechanics</p>\n\n<h4 id=\"evaluation-scheme\">Evaluation Scheme</h4>\n<p>Quizzes: 15%<br>\nProject: 20%<br>\nMidsem: 25%<br>\nEndsem: 40%</p>\n\n<h4 id=\"topics-covered-in-the-course\">Topics Covered in the Course</h4>\n<p>Following topics are covered:<br>\nIntroduction to turbo machinery, axial flow compressors and fans, axial flow turbines, centrifugal compressors</p>\n\n<h4 id=\"teaching-style\">Teaching Style</h4>\n<p>Course taught through details slides.</p>\n\n<h4 id=\"tutorialsassignmentsprojects\">Tutorials/Assignments/Projects</h4>\n<p>Project is a bit involved and requires designing a component based on the given parameters.</p>\n\n<h4 id=\"feedback-on-exams\">Feedback on Exams</h4>\n<p>Quizzes: Questions similar to tutorial sets.<br>\nMidsem and endsem: Paper consists of numerical and theoretical questions.</p>\n\n<h4 id=\"how-strongly-would-i-recommend-this-course\">How strongly would I recommend this course?</h4>\n<p>A must do course if you are interested in design and aerospace engineering.</p>\n\n<h4 id=\"when-to-take-this-course\">When to take this course?</h4>\n<p>I took this course on my seventh semester. Ideal time will be post your third year.</p>\n\n<p><em>Review By:</em> Yash Mandhana</p>\nWe thank the Mechanical DAMP team for this review",
+                "timestamp": "2022-12-18T01:19:13.095834+05:30",
+                "pinned": false,
+                "voters_count": 1
+            }
+        ]
+    },
+    {
+        "code": "AE706",
+        "title": "Computational Fluid Dynamics",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "Basic equations of fluid dynamics and levels of approximation. Mathematical nature of the flow equations & their boundry conditions. Grids and transformations. Basic discretization techniques applied to model equations and systems of equations:finite difference, finite volume and finite element methods. Analysis of numerical schemes: concept of consistency, stability and convergence. Error and stability analysis. Some applications.",
+        "credits": 6,
+        "category": "Interdisciplinary STEM Course.",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": [
+                    {
+                        "id": 9631,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "AE706",
+                        "division": "Core",
+                        "lecture_slots": [
+                            "13A",
+                            "13B"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LC 002",
+                        "professor": "Jadav Chandra Mandal"
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory"
+        ],
+        "reviews_count": 1,
+        "resources_count": 0,
+        "favorited_by_count": 2,
+        "review_requesters_count": 0,
+        "resource_requesters_count": 3,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "27bd49c6-9211-4048-94cb-37508d9a0af4",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "AE706",
+                "parent": null,
+                "body": "<h4 id=\"instructor\">Instructor</h4>\n<p>J.C. Mandal</p>\n\n<h4 id=\"semester\">Semester</h4>\n<p>Spring’20</p>\n\n<h4 id=\"course-difficulty\">Course Difficulty</h4>\n<p>The initial portion of the course dealt with fluid mechanics and governing equations which were a bit tough. The finite difference techniques that followed were easy - moderate. The coding assignments had to be done in C/C++ only. They were a major part of learning in the course.</p>\n\n<h4 id=\"time-commitment-required\">Time Commitment Required</h4>\n<p>You would need to revise at least an hour per week along with attending the lectures. The coding assignments will take up some time depending on your proficiency with C/C++. But the time commitment for the coding assignments will go down as you get familiar with C/C++ through the course.</p>\n\n<h4 id=\"grading-policy-and-statistics\">Grading Policy and Statistics</h4>\n<p>The professor implemented absolute grading with 90 being the cutoff for AA, 80 being the cutoff for AB and so on.</p>\n\n<h4 id=\"attendance-policy\">Attendance Policy</h4>\n<p>The prof had instructed about strict attendance at the beginning of the course but did not implement the policy as DX grade was not allowed in online sem.</p>\n\n<h4 id=\"pre-requisites\">Pre-requisites</h4>\n<p>Although there are no hard prerequisites other than basic Fluid Dynamics, doing a course on Gas Dynamics would ensure better understanding of some of the governing equations and their analysis. That being said, Gas Dynamics is not essential to understand the CFD part of the course.<br>\nDecent knowledge of C/C++ is a hard prerequisite as the professor does not accept coding assignments in any other language. Knowledge of linear algebra and basic differential equations would help in the course.</p>\n\n<h4 id=\"evaluation-scheme\">Evaluation Scheme</h4>\n<ol>\n  <li>10% for best 2 quizzes out of 3.</li>\n  <li>45% for 3 coding assignments.</li>\n  <li>20% for mid-semester exam.</li>\n  <li>25% for end-semester exam.</li>\n</ol>\n\n<h4 id=\"topics-covered-in-the-course\">Topics Covered in the Course</h4>\n<p>1.Introduction to Computational Fluid Dynamics</p>\n<ol>\n  <li>Governing equations for fluid dynamics</li>\n  <li>Classifications of governing equations based on their nature</li>\n  <li>Nature of boundary conditions</li>\n  <li>Finite difference approximations</li>\n  <li>Application of Finite difference methods to model equations</li>\n  <li>Desirable properties of finite difference methods</li>\n  <li>Analysis of finite difference methods</li>\n  <li>Elementary grid generation.</li>\n  <li>Applications of finite difference methods to One-dimensional Euler equations</li>\n</ol>\n\n<h4 id=\"teaching-style\">Teaching Style</h4>\n<p>The professor would use MS Whiteboard during the lectures and provide the whiteboard file afterwards. He was very open to answering doubts and would even wait after the lectures if doubts weren’t solved. The content pertaining to CFD is taught right from the basics and is taught with examples in a manner which is easy to understand</p>\n\n<h4 id=\"tutorialsassignmentsprojects\">Tutorials/Assignments/Projects</h4>\n<p>The coding assignments were the most fun part of the course as you would apply the knowledge learnt in class and write codes from scratch for various finite difference schemes.</p>\n\n<h4 id=\"feedback-on-exams\">Feedback on Exams</h4>\n<p>The Midsem was pretty easy as most of the question has been dealt with in some form in the class. The Endsem on the other hand was tough and it involved application of whatever was leant throughout the course. The quizzes were moderate and doable if attention was paid in class.</p>\n\n<h4 id=\"motivation-for-taking-this-course\">Motivation for taking this course</h4>\n<p>An interest in fluid mechanics and basic knowledge of the applications of CFD in various fields prompted me to take the course.</p>\n\n<h4 id=\"course-importance\">Course Importance</h4>\n<p>This course is important if you want to pursue CFD in a theoretical setting. It will form the foundation of CFD as you take more advanced courses.</p>\n\n<h4 id=\"when-to-take-this-course\">When to take this course?</h4>\n<p>I took this course in my 4th sem. I would recommend the same as one would have completed Fluid Mechanics in the 3rd sem and would also get sufficient time to explore other courses related to CFD if interested.</p>\n\n<h4 id=\"references-used\">References Used</h4>\n<p>1.Numerical Computation of Internal and External Flows: The Fundamentals of Computational Fluid <br>\nDynamics: Volume 1 and Volume 2, Charles Hirsch, Butterworth-Heinemann</p>\n\n<p>2.Computational Fluid Dynamics, J.D. Anderson, McGraw Hill</p>\n\n<p><em>AE 706 Review By:</em> Varun Pathak</p>\nWe thank the Mechanical DAMP team for this review",
+                "timestamp": "2022-12-18T01:19:13.572247+05:30",
+                "pinned": false,
+                "voters_count": 1
+            }
+        ]
+    },
+    {
+        "code": "AE759",
+        "title": "Systems Engineering Principles",
+        "department": {
+            "name": "Aerospace Engineering",
+            "slug": "aerospace-engineering"
+        },
+        "description": "System definitions and conceptual system design. Introduction to engineering design and decision making; Requirements capture; Requirements analysis, functional decomposition; System architecture; Quality Function Deployment; Queuing theory;Design Options, Monte Carlo modeling,Utility theory, Forecasting. Engineering Systems modeling. Analysis of system; reliability; Maintainability, Serviceability, Disposability and Affordability. Cost and benefit analysis. Methods of decision analysis; State transition matrix models;modeling the research and development process;Information, System life-cycle modeling and optimization. Game theory;Management of Engineering systems design and operation;Programme management with case studies. Use of systems engineering software to capture the systems engineering process.",
+        "credits": 6,
+        "category": "",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": []
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Elective"
+        ],
+        "reviews_count": 1,
+        "resources_count": 0,
+        "favorited_by_count": 0,
+        "review_requesters_count": 0,
+        "resource_requesters_count": 0,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "2f1fd2dc-5abc-4368-aae6-dc245460e056",
+                "user_profile": {
+                    "id": "6c4d9ee4-1b9e-4656-a22f-2b6fb70b0508",
+                    "name": "Vidushi Verma",
+                    "ldap_id": "190100135",
+                    "profile_picture": null
+                },
+                "course": "AE759",
+                "parent": null,
+                "body": "<h4 id=\"instructor\">Instructor</h4>\n<p>Hemendra Arya</p>\n\n<h4 id=\"semester\">Semester</h4>\n<p>Spring’20</p>\n\n<h4 id=\"course-difficulty\">Course Difficulty</h4>\n<p>Easy to Moderate. The content was really Interesting and unique.</p>\n\n<h4 id=\"time-commitment-required\">Time Commitment Required</h4>\n<p>Just need to attend the lectures.</p>\n\n<h4 id=\"grading-policy-and-statistics\">Grading Policy and Statistics</h4>\n<p>Everyone was given a AA/AB</p>\n\n<h4 id=\"attendance-policy\">Attendance Policy</h4>\n<p>No attendance requirements</p>\n\n<h4 id=\"pre-requisites\">Pre-requisites</h4>\n<p>No pre-requisites</p>\n\n<h4 id=\"evaluation-scheme\">Evaluation Scheme</h4>\n<p>The course had a midsem, endsem and a group project. No quizzes. The endsem and midsem had a few questions which were based on the project.</p>\n\n<h4 id=\"topics-covered-in-the-course\">Topics Covered in the Course</h4>\n<p>Systems definitions and concepts. Conceptual system design; Introduction to engineering design and decision making; Requirements capture; Requirements analysis, functional decomposition; System architecture; Quality Function Deployment; Queuing theory; Design options; Monte Carlo modeling; Utility theory; Forecasting. Engineering systems modeling. Analysis of system: Reliability; Maintainability; Serviceability; Disposability and Affordability. Cost and benefit analysis. Methods of decision analysis; State transition matrix models; Modeling the research and development process;Information, System life-cycle modeling and optimization. Game theory;Management of engineering systems design and operation; Programmemanagement with case studies.</p>\n\n<h4 id=\"teaching-style\">Teaching Style</h4>\n<p>The prof had a guest Speaker from the industry come and give weekly lectures. Apart from this we had a course project running where we had to directly apply the knowledge we gained from the lectures</p>\n\n<h4 id=\"tutorialsassignmentsprojects\">Tutorials/Assignments/Projects</h4>\n<p>The project was a bit time consuming but had the maximum weightage and we did not have to prepare for the exams if enough research was done for the project.</p>\n\n<h4 id=\"feedback-on-exams\">Feedback on Exams</h4>\n<p>The Exams were case based and no mugging up was required in any of them. If one had attended all lectures, nothing else was required</p>\n\n<h4 id=\"motivation-for-taking-this-course\">Motivation for taking this course</h4>\n<p>I was a part of the Student Satellite Team. The content of the course was directly applicable to the project I was working on.</p>\n\n<h4 id=\"course-highlights\">Course Highlights</h4>\n<p>The project helped me understand the course a lot better.</p>\n\n<h4 id=\"course-importance\">Course Importance</h4>\n<p>The course content was really unique and hands on. The prof was really flexible with submissions and the guest lectures were really interesting.</p>\n\n<h4 id=\"how-strongly-would-i-recommend-this-course\">How strongly would I recommend this course?</h4>\n<p>Really enjoyed the course, would definitely recommend it</p>\n\n<h4 id=\"when-to-take-this-course\">When to take this course?</h4>\n<p>I took this course in my 4th Semester. As there are no pre-requisites/associated courses, can take this up in any semester.</p>\n\n<h4 id=\"going-forward\">Going Forward</h4>\n<p>This is a basic course on systems engineering and the only course in this domain that IITB offers according to my knowledge hence it can be used as a great opportunity to explore the field.</p>\n\n<h4 id=\"references-used\">References Used</h4>\n<p>Only the lecture slides.</p>\n\n<p><em>Review By:</em> Vidushi Verma</p>\nWe thank the Mechanical DAMP team for this review",
+                "timestamp": "2022-12-18T01:19:13.091305+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    },
+    {
+        "code": "BB101",
+        "title": "Biology",
+        "department": {
+            "name": "Biosciences & Bioengineering",
+            "slug": "biosciences-bioengineering"
+        },
+        "description": "Quantitative views of modern biology. Importance of illustrations and building quantitative/qualitative models. Role of estimates. Cell size and shape. Temporal scales. Relative time in Biology. Key model systems - a glimpse. Management and transformation of energy in cells. Mathematical view - binding, gene expression and osmotic pressure as examples. Metabolism. Cell communication. Genetics. Eukaryotic genomes. Genetic basis of development. Evolution and diversity. Systems biology and illustrative examples of applications of Engineering in Biology.",
+        "credits": 6,
+        "category": "Interdisciplinary STEM Course.",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": [
+                    {
+                        "id": 10759,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB101",
+                        "division": "Core",
+                        "lecture_slots": [],
+                        "tutorial_slots": [
+                            "3A"
+                        ],
+                        "lecture_venue": "LT 306",
+                        "professor": "- Sreelaja Nair"
+                    },
+                    {
+                        "id": 9638,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB101",
+                        "division": "D2",
+                        "lecture_slots": [
+                            "6A",
+                            "6B"
+                        ],
+                        "tutorial_slots": [
+                            "3A"
+                        ],
+                        "lecture_venue": "LT 206",
+                        "professor": "Sreelaja Nair"
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": [
+                    {
+                        "id": 8671,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB101",
+                        "division": "D1",
+                        "lecture_slots": [
+                            "6A",
+                            "6B"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LH 302",
+                        "professor": "Petety V Balaji"
+                    },
+                    {
+                        "id": 8672,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB101",
+                        "division": "D3",
+                        "lecture_slots": [
+                            "6A",
+                            "6B"
+                        ],
+                        "tutorial_slots": [
+                            "3A"
+                        ],
+                        "lecture_venue": "LT 103",
+                        "professor": "Rajesh Patkar"
+                    },
+                    {
+                        "id": 8673,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB101",
+                        "division": "S1",
+                        "lecture_slots": [
+                            "6A",
+                            "6B"
+                        ],
+                        "tutorial_slots": [
+                            "7A"
+                        ],
+                        "lecture_venue": "LT 306",
+                        "professor": "Sreelaja Nair"
+                    }
+                ]
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Minor",
+            "Elective"
+        ],
+        "reviews_count": 11,
+        "resources_count": 166,
+        "favorited_by_count": 136,
+        "review_requesters_count": 18,
+        "resource_requesters_count": 48,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "12ba6880-5307-4540-8efc-e2cb7da3eddf",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<b>Course Name:</b> BB101<br/>\n<b>Review By:</b> Arjun Agarwal<br/>\n<b>Name of the Prof:</b> Sadhana Dash<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> None<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 3<br/>\n<b>Grading Scheme:</b> about 10% was assignments , 10 % for short quizzes conducted in class, and rest midsem, this was the grading scheme for the part before midsem<br/>\n<b>Time spent on course(hours per week):</b> 2<br/>\n<b>Pre-requisites(if any):</b> None<br/>\n<b>Overview(Expect to learn and future prospects):</b> The part before midsem was super boring, if you want a good grade start mugging up everything from the beginning, there is not much logic to it, there were 4 different professors for 4 modules, prof said that the part after midsem would be interesting and logic based, but didn't attend it so can't say.<br/>\n<b>Course Rating:</b> 2<br/>",
+                "timestamp": "2022-12-19T15:55:40.960018+05:30",
+                "pinned": false,
+                "voters_count": 1
+            },
+            {
+                "id": "187bf68d-7fbf-49d5-bbed-0924f3d83340",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<b>Course Name:</b> BB101<br/>\n<b>Review By:</b> Sanaa Sharma<br/>\n<b>Name of the Prof:</b> Venkatesh V Kareenhalli<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> 80<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 4<br/>\n<b>Grading Scheme:</b> Assignments(5%)+ tut quiz(don't remember weightage)+midsem<br/>\n<b>Time spent on course(hours per week):</b> 2<br/>\n<b>Pre-requisites(if any):</b> None<br/>\n<b>Overview(Expect to learn and future prospects):</b> Course starts with the basics of 10 th level and then goes super deep into genome structures and stuff. Especially for batches having the course in the second sem, the course content was made tougher.<br/>\n<b>Course Rating:</b> 3<br/>",
+                "timestamp": "2022-12-19T15:55:41.073521+05:30",
+                "pinned": false,
+                "voters_count": 1
+            },
+            {
+                "id": "347b8a39-3b13-4fd0-a2f1-d7c3541d0413",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<b>Course Name:</b> BB 101<br/>\n<b>Review By:</b> Bhuvan Aggarwal<br/>\n<b>Name of the Prof:</b> Prof. Pv balaji, Prof. Ambarish kunwar<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> 0<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 2<br/>\n<b>Grading Scheme:</b> No weightage for assignment, tuts etc but doing them was helpful for paper<br/>\n<b>Time spent on course(hours per week):</b> 4.5<br/>\n<b>Pre-requisites(if any):</b> None<br/>\n<b>Overview(Expect to learn and future prospects):</b> Really great course for students having interest in biology with chill professors, easy exams and chill grading<br/>\n<b>Course Rating:</b> 5<br/>",
+                "timestamp": "2022-12-19T15:55:40.519967+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "4404d869-754c-400d-843d-b3842e8cb095",
+                "user_profile": {
+                    "id": "eaed8ef4-1563-41fb-9af8-320b80c33ec3",
+                    "name": "Venkat Ayyadevara",
+                    "ldap_id": "25b2116",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<h2>Course review</h2><p><br></p><h3>Details</h3><ul><li>Reviewer name: Venkat Ayyadevara</li><li>Roll number: 25B2116</li><li>Department: Mechanical Engineering</li><li>Year of study: 1st</li><li>Course: BB101</li><li>Professor: Petey V. Balaji</li><li>Quizzes/exams: 0</li><li>Assignments: 0</li><li>Additional components: None</li></ul><p><br></p><h3>Prerequisites necessary (if any)</h3><p>None, beginner-friendly</p><p><br></p><h3>Course difficulty</h3><p>Assessment format: Open-book.</p><p>Typical quiz/exam questions: Requires deeper understanding.</p><p>Grading style: Moderate.</p><p><br></p><h3>Overview</h3><p>Course focus: Theory-heavy.</p><p>Most emphasized topics: Biology.</p><p>Best suited for: A lot of people.</p><p><br></p><h3>Personal opinion</h3><p>Teaching style: Slides.</p><p>Additional resources: Rarely.</p><p>Advice for future students: Dont study last minute. Though there is no attendance policy, it's better to go to classes</p><p><br></p>",
+                "timestamp": "2025-12-20T21:18:09.221793+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "4eb633a9-6dec-4a15-8f47-091a1233dacc",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<b>Course Name:</b> BB101<br/>\n<b>Review By:</b> Yash<br/>\n<b>Name of the Prof:</b> (1) Munish Kumar Chandel (Solid Waste) (2) Virendra Sethi (Air Waste) (3) Amritanshu Shriwastav (Water Waste)<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> 0<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 2<br/>\n<b>Grading Scheme:</b> Molecular biology-Quiz and endsem(15+35) Biotech- 18 endsem Physical biology ( 36 endsem + 6 in class tests)<br/>\n<b>Time spent on course(hours per week):</b> 2<br/>\n<b>Pre-requisites(if any):</b> Some high school biology<br/>\n<b>Overview(Expect to learn and future prospects):</b> General understanding of biology and how technology is prevalent in it<br/>\n<b>Course Rating:</b> 5<br/>",
+                "timestamp": "2022-12-19T15:55:41.832210+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "6eb6884e-6d00-424c-9a56-e30e95715307",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<b>Course Name:</b> BB101<br/>\n<b>Review By:</b> Avishi Agarwal<br/>\n<b>Name of the Prof:</b> Salil S. Kulkarni<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> 85<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 4<br/>\n<b>Grading Scheme:</b> I honestly don’t remember, I guess more weightage to midsem endsem. In general<br/>\n<b>Time spent on course(hours per week):</b> 4<br/>\n<b>Pre-requisites(if any):</b> None<br/>\n<b>Overview(Expect to learn and future prospects):</b> Structure was good. Cellular biology had too much theory and was boring<br/>\n<b>Course Rating:</b> 4<br/>",
+                "timestamp": "2022-12-19T15:55:41.819169+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "936f79bd-6204-49a0-9718-9c3105d27589",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<b>Course Name:</b> BB101<br/>\n<b>Review By:</b> Muskan Jain<br/>\n<b>Name of the Prof:</b> Amit Sethi<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> 0<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 3<br/>\n<b>Grading Scheme:</b> Grading stats are good, I mean putting in the alloted number of hours per week helps one to score easily.<br/>\n<b>Time spent on course(hours per week):</b> 6<br/>\n<b>Pre-requisites(if any):</b> None<br/>\n<b>Overview(Expect to learn and future prospects):</b> The course is really interesting it involves Microbiology, Physical Biology and System Biology. Microbiology involves more of understanding and trying to physically imagine things related to DNA and its working with various catalysts and other Chemicals. Physical is more about movement of micro-organisms in varous kinds of fluids. While the last part comprises of studying the statistics of various dieseases and the inventions made to tackle them.<br/>\n<b>Course Rating:</b> 5<br/>",
+                "timestamp": "2022-12-19T15:55:41.699784+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "99c2c3d7-9a5e-436c-a22f-55320d76d301",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<b>Course Name:</b> BB101<br/>\n<b>Review By:</b> Tushar Nandy<br/>\n<b>Name of the Prof:</b> S.A. Soman<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> 0<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 2<br/>\n<b>Grading Scheme:</b> quizzes (1 pre midsem and 1 post midsem) each having 15% weightage\nmidsem/endsem: 35% weightage each<br/>\n<b>Time spent on course(hours per week):</b> 3<br/>\n<b>Pre-requisites(if any):</b> None<br/>\n<b>Overview(Expect to learn and future prospects):</b> It is taught in three modules:\n1. First part covers cell shape and size, gene expression, hemoglobin/myoglobin, etc.\n2. Physical Biology\n3. Introduction to Bio-Tech and MEMS systems<br/>\n<b>Course Rating:</b> 5<br/>",
+                "timestamp": "2022-12-19T15:55:41.334053+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "b552b14c-f90f-4784-9afe-852d9db67703",
+                "user_profile": {
+                    "id": "d8c55289-a409-457c-a866-bd2a61cc25db",
+                    "name": "Manas Gupta",
+                    "ldap_id": "24b2430",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<h2>Course review</h2><p><br></p><h3>Details</h3><ul><li>Reviewer name: Manas Gupta</li><li>Roll number: 24B2430</li><li>Department: MEMS</li><li>Year of study: 2nd</li><li>Course: BB101</li><li>Professor: Sreelaja Nair</li><li>Quizzes/exams: 4</li><li>Assignments: 0</li><li>Additional components: None</li></ul><p><br></p><h3>Prerequisites necessary (if any)</h3><p>Basic knowledge of a few topics</p><p><br></p><h3>Course difficulty</h3><p>Assessment format: Both depending on the quiz/exam.</p><p>Typical quiz/exam questions: Application-based, Requires deeper understanding.</p><p>Grading style: Strict.</p><p><br></p><h3>Overview</h3><p>Course focus: Problem-solving / numerical.</p><p>Most emphasized topics: Genetics.</p><p>Best suited for: Who have genuine interest in Bio.</p><p><br></p><h3>Personal opinion</h3><p>Teaching style: Slides, Discussions.</p><p>Additional resources: Rarely.</p><p>Advice for future students: Be thorough with the topics and book</p><p><br></p>",
+                "timestamp": "2025-12-20T20:54:39.633937+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "bd153fe1-8752-4871-a405-daa9f13222ea",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<b>Course Name:</b> BB101<br/>\n<b>Review By:</b> Krishi Mantri<br/>\n<b>Name of the Prof:</b> Sadhana Dash<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> None<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 3<br/>\n<b>Grading Scheme:</b> It is quite good and a lot of people score 9/10<br/>\n<b>Time spent on course(hours per week):</b> 5<br/>\n<b>Pre-requisites(if any):</b> None<br/>\n<b>Overview(Expect to learn and future prospects):</b> The course just requires a little effort to read up the slides and comprehend it<br/>\n<b>Course Rating:</b> 5<br/>",
+                "timestamp": "2022-12-19T15:55:41.450997+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "f087f267-ac94-4f55-96a5-e4dae1cabbe7",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB101",
+                "parent": null,
+                "body": "<b>Course Name:</b> BB101<br/>\n<b>Review By:</b> KRITI CHATURVEDI<br/>\n<b>Name of the Prof:</b> Prof. Shireesh Kedare<br/>\n<b>Year the course was taken in:</b> 1<br/>\n<b>Attendance Criteria:</b> 80 percent<br/>\n<b>Difficulty of evaluation(How difficult the test and assignment were and how difficult was the grading):</b> 3<br/>\n<b>Grading Scheme:</b> 20 percent quizzes 80 percent midsem endsem<br/>\n<b>Time spent on course(hours per week):</b> 10<br/>\n<b>Pre-requisites(if any):</b> No<br/>\n<b>Overview(Expect to learn and future prospects):</b> It was a wondeful course<br/>\n<b>Course Rating:</b> 5<br/>",
+                "timestamp": "2022-12-19T15:55:41.105956+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    },
+    {
+        "code": "BB400",
+        "title": "Molecular Biophysics",
+        "department": {
+            "name": "Biosciences & Bioengineering",
+            "slug": "biosciences-bioengineering"
+        },
+        "description": "",
+        "credits": 6,
+        "category": "Interdisciplinary STEM Course.",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": [
+                    {
+                        "id": 9639,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB400",
+                        "division": "Core",
+                        "lecture_slots": [
+                            "2A",
+                            "2B",
+                            "2C"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LT 002",
+                        "professor": "Petety V Balaji"
+                    },
+                    {
+                        "id": 9640,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB400",
+                        "division": "Minor",
+                        "lecture_slots": [
+                            "2A",
+                            "2B",
+                            "2C"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LT 002",
+                        "professor": "Petety V Balaji"
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Minor",
+            "Elective"
+        ],
+        "reviews_count": 1,
+        "resources_count": 0,
+        "favorited_by_count": 0,
+        "review_requesters_count": 5,
+        "resource_requesters_count": 4,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "f64422c5-830a-42f9-8f78-b75c176b71cb",
+                "user_profile": {
+                    "id": "686e0101-f27d-44e6-9fe0-d999075e070e",
+                    "name": "Anuj Anna Waje",
+                    "ldap_id": "22b2540",
+                    "profile_picture": null
+                },
+                "course": "BB400",
+                "parent": null,
+                "body": "<h1>How did you find out about this course, and what led you to take it?</h1>\r\n    <p>Being part of iGEM IITB, I heard about this course from friends on the team. I was also drawn to it because the professor, who was our Faculty Advisor and had taught one of my earlier courses, and I really appreciated his teaching style.</p>\r\n\r\n    <h1>Could you briefly explain the curriculum of this course?</h1>\r\n    <p>Even though the course title may suggest a focus on \"Physics,\" it is actually centered around exploring the fundamental building blocks of biological systems. The course primarily examines how various systems reach their most stable configurations through the principles of Gibbs Free Energy. It delves deep into the definitions of free energy, entropy, and enthalpy, and how their interplay governs the state of a system.<br>What makes this course particularly unique is that it doesn't rely on lecture slides. Instead, it uses research papers to introduce and explain key concepts an excellent approach for anyone interested in learning how to read and interpret scientific literature.</p>\r\n\r\n    <h1>How is the rigor of this course, and what was the weekly effort?</h1>\r\n    <p>Attending classes regularly and taking notes in this course is of utmost importance as the prof does not provide any material apart from research papers discussed in class. I think if you are attentive in class and discuss with the prof any doubts you have, it is enough effort to put each week.</p>\r\n\r\n    <h1>How was the exam pattern and evaluation?</h1>\r\n    <p>The exam pattern was only subjective questions which tested the concepts in detail and depth. The Quiz and Midsem were open internet, and in the End Sem a 1-page reference sheet was allowed. There was no attendance policy. Instead of having another quiz between the mid-sem and end-sem, the professor encouraged us to present a research paper of our choice relevant to the course curriculum.<br>The breakup of the marks is as follows:</p>\r\n    <ul>\r\n        <li><b>Quiz:</b> 15%</li>\r\n        <li><b>Midsem:</b> 30%</li>\r\n        <li><b>Research Paper presentation:</b> 15%</li>\r\n        <li><b>End Sem:</b> 40%</li>\r\n    </ul>\r\n\r\n    <h1>How was the grading of the course? And was it easy to score?</h1>\r\n    <p>The grading was pretty harsh as only 4 AAs and 1 AB was given out of 29 students. However, this was largely due to the fact that the majority of the people did not show up to the class and thus missed the core chunk of understanding of the course, as questions in the paper came directly from the class discussions. The questions were easy if one takes down notes in the class and clears his doubts with the professor. The professor is very friendly, open to even the most basic doubts, and encourages students to ask questions.</p>\r\n\r\n    <h1>What were the pros/cons of this course? Any suggestions for people wanting to take this course?</h1>\r\n    <p><b>Pros:</b> Anyone who wants to pursue an MS/PhD in the future, in any field, is encouraged to take this course. There is a lot of literature review to be done in this course and one develops a fair bit of practice and understanding and even enjoyment of reading research papers.<br><b>Cons:</b> This course is not for people who don't love chemistry, biology or just hate core subjects in general as it might get pretty boring for them.</p>\r\n\r\n    <h1>How did this course help you, and/or how is it relevant for your career?</h1>\r\n    <p>This course comes under the BSBE minor and also helped me to practice reading a lot of research articles, a huge pro of this course.</p>\r\n\r\n    <h1>Any Final Remarks</h1>\r\n    <p>If I had to sum up the essence of this course in one sentence, it would be: &Delta;G = &Delta;H - T&Delta;S!</p>\r\n\r\n    <h1>List of Pursued Courses Mentioned</h1>\r\n    <ul>\r\n        <li><b>BB400 - Molecular Biophysics</b> (This course is part of the BSBE minor.)</li>\r\n    </ul>",
+                "timestamp": "2025-10-04T20:09:05.738262+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    }
+]

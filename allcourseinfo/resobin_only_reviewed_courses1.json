@@ -1,0 +1,270 @@
+[
+    {
+        "code": "BB404",
+        "title": "Metabolism and Bioenergetics",
+        "department": {
+            "name": "Biosciences & Bioengineering",
+            "slug": "biosciences-bioengineering"
+        },
+        "description": "Overview of metabolism; concept of flow of matter and energy; thermodynamics of coupled systems and non-equilibrium reactions; biological energy currencies: high energy bond, reducing power and inter conversions of energy forms; carbon, nitrogen cycles in biosphere; classification of living system based on carbon and energy requirements; methods to study metabolism; carbohydrate and lipid catabolism; glycolysis; TCA cycle; fatty acid oxidation, other metabolic routes of carbon; oxidative phosphorylation; biosynthesis of carbohydrates and lipids photosynthesis; photosynthetic electron transport; Calvin cycle and other avenues of harvesting light energy; gluconeogenesis; Cori cycle; glycogen metabolism; biogenesis of fatty acids and sterols; nitrogen metabolism: sources of organic nitrogen; flow of nitrogen into biosynthesis and catabolism of amino acids; central role of glutamine; purines and pyrimidines; the metabolism of nucleotides; urea cycle and excretion of nitrogen; integration of metabolism and concepts of metabolic regulation.",
+        "credits": 6,
+        "category": "",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": []
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Minor",
+            "Elective"
+        ],
+        "reviews_count": 1,
+        "resources_count": 0,
+        "favorited_by_count": 2,
+        "review_requesters_count": 0,
+        "resource_requesters_count": 1,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "c0a33035-7f71-44da-b5a3-bd5771d1f04b",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB404",
+                "parent": null,
+                "body": "<h4 id=\"instructor\">Instructor</h4>\n<p>Ashutosh Kumar</p>\n\n<h4 id=\"semester\">Semester</h4>\n<p>Spring ‘21</p>\n\n<h4 id=\"course-difficulty\">Course Difficulty</h4>\n<p>The course will be quite easy for you if you are interested in chemistry as most of it consisted of reactions and pathways. There was a bit of thermodynamics involved as well. Overall, it was quite manageable if you devote some time to it, irrespective of your background.</p>\n\n<h4 id=\"time-commitment-required\">Time Commitment Required</h4>\n<p>There were regular assignments which kept you on track, hence if you give time to those and study a day before the exam, I think you are good to go.</p>\n\n<h4 id=\"grading-policy-and-statistics\">Grading Policy and Statistics</h4>\n<p>The grading was pretty chill. Many people got 9s and 10s.</p>\n\n<h4 id=\"attendance-policy\">Attendance Policy</h4>\n<p>As it was conducted in an online mode, the Professor was not very strict and there was no  attendance policy as such. There were only around 20 people who registered for the course, out of which 10 attended classes and a few ended up dropping the course.</p>\n\n<h4 id=\"pre-requisites\">Pre-requisites</h4>\n<p>No prerequisites required as such, basic knowledge in chemistry would suffice.</p>\n\n<h4 id=\"evaluation-scheme\">Evaluation Scheme</h4>\n<p>The weightages were evenly distributed, with assignments and surprise quizzes holding a fewer percentage as compared to midsems and endsems.</p>\n\n<h4 id=\"topics-covered-in-the-course\">Topics Covered in the Course</h4>\n<p>Overview of metabolism; concept of flow of matter and energy; thermodynamics of coupled systems and non-equilibrium reactions; biological energy currencies: high energy bond, reducing power and inter conversions of energy forms; carbon, nitrogen cycles in biosphere; classification of living system based on carbon and energy requirements; methods to study metabolism; carbohydrate and lipid catabolism; glycolysis; TCA cycle; fatty acid oxidation, other metabolic routes of carbon; oxidative phosphorylation; biosynthesis of carbohydrates and lipids photosynthesis; photosynthetic electron transport; Calvin cycle and other avenues of harvesting light energy; gluconeogenesis;</p>\n\n<h4 id=\"teaching-style\">Teaching Style</h4>\n<p>MS Teams and teaching was done through slides and interactive videos.</p>\n\n<h4 id=\"tutorialsassignmentsprojects\">Tutorials/Assignments/Projects</h4>\n<p>Assignments were intuitive and interesting. Mainly involved tracking molecules in different pathways.</p>\n\n<h4 id=\"feedback-on-exams\">Feedback on Exams</h4>\n<p>Midsems and Endsems were a bit tough as usual. The only problem I felt was the time constraint, in the surprise quizzes as well</p>\n\n<h4 id=\"motivation-for-taking-this-course\">Motivation for taking this course</h4>\n<p>Mainly, because I had to complete my BB minor and also because the topic sounded interesting. I expected more of practical applications rather than fundamentals of metabolism.</p>\n\n<h4 id=\"course-highlights\">Course Highlights</h4>\n<p>I got to learn various pathways(although it is a quite complex system) of metabolism in the body, like the Krebs Cycle.</p>\n\n<h4 id=\"course-importance\">Course Importance</h4>\n<p>This course is not very useful for future core or non-core research purposes, although the aspect of mass spectrometry taught in the end might be quite useful in biotechnology.</p>\n\n<h4 id=\"how-strongly-would-i-recommend-this-course\">How strongly would I recommend this course?</h4>\n<p>If you are into chemistry and have a slight interest in Bio, I would recommend you to take this course. It is heavily biased towards biochemistry topics and focuses on organic chemistry.</p>\n\n<h4 id=\"when-to-take-this-course\">When to take this course?</h4>\n<p>I took it in the Spring Semester of 2020-21. I think you can take this course during this time, provided you can manage all of your other academic commitments. I had labs during this time, so I thought I could manage with a minor course.</p>\n\n<h4 id=\"going-forward\">Going Forward</h4>\n<p>You might be interested to take other Bio courses after completing this course, like BB415-Cell and Molecular Biology, which was mainly focused on the Biology aspect rather than Chemistry.</p>\n\n<h4 id=\"references-used\">References Used</h4>\n<p>Lehninger Principles of Biochemistry.</p>\n\n<h4 id=\"interesting-relevant-links\">Interesting relevant links</h4>\n<p>https://ocw.mit.edu/courses/chemistry/5-07sc-biological-chemistry-i-fall-2013/module-ii/session-10/problem-set-7-problem-1-tracing-labels-through-pathways/</p>\n\n<p><em>BB 404 Review By:</em> Siddhant Wagh</p>\nWe thank the Mechanical DAMP team for this review",
+                "timestamp": "2022-12-18T01:19:13.567273+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    },
+    {
+        "code": "BB415",
+        "title": "Cell and Molecular Biology",
+        "department": {
+            "name": "Biosciences & Bioengineering",
+            "slug": "biosciences-bioengineering"
+        },
+        "description": "Universal features of cells; cell chemistry and biosynthesis: chemical organization of cells; internal organization of the cell - cell membranes: structure of cell membranes and concepts related to compartmentalization in eukaryotic cells; intracellular organelles: endoplasmic reticulum and Golgi apparatus, lysosomes and peroxisomes, ribosomes, cellular cytoskeleton, mitochondria, chloroplasts and cell energetics; nuclear compartment: nucleus, nucleolus and chromosomes. Chromatin organization - histone and DNA interactome: structure and assembly of eukaryotic and prokaryotic DNA polymerases, DNA-replication, repair and recombination; chromatin control: gene transcription and silencing by chromatin Writers,-Readers and –Erasers; Transcriptional control: Structure and assembly of eukaryotic and prokaryotic RNA Polymerases, promoters and enhancers, transcription factors as activators and repressors, trancriptional initiation, elongation and termination; post-transcriptional control: splicing and addition of cap and tail, mRNA flow through nuclear envelope into cytoplasm, breakdown of selective and specific mRNAs through interference by small non-coding RNAs (miRNAs and siRNAs), protein translation machinery, ribosomes-composition and assembly; universal genetic codes, degeneracy of codons, Wobble hypothesis; Iso-accepting tRNA; mechanism of initiation, elongation and termination; co- and post-translational modifications, mitochondrial genetic code translation product cleavage, modification and activation. Molecular mechanisms of membrane transport, nuclear transport, transport across mitochondria and chloroplasts; intracellular vesicular trafficking from endoplasmic reticulum through Golgi apparatus to lysosomes/cell exterior. Cell cycle and its regulation; cell division: mitosis, meiosis and cytokinesis; cell differentiation: stem cells, their differentiation into different cell types and organization into specialized tissues; cell-ECM and cell-cell interactions; cell receptors and transmembrane signalling; cell motility and migration; cell death: different modes of cell death and their regulation. Isolation of cells and basics of cell culture; observing cells under a microscope, different types of microscopy; analyzing and manipulating DNA, RNA and proteins. Mutations, proto-oncogenes, oncogenes and tumour suppressor genes, physical, chemical and biological mutagens; types of mutations; intra-genic and inter-genic suppression; transpositions- transposable genetic elements in prokaryotes and eukaryotes, role of transposons in genome; viral and cellular oncogenes; tumor suppressor genes; structure, function and mechanism of action; activation and suppression of tumor suppressor genes; oncogenes as transcriptional activators.",
+        "credits": 6,
+        "category": "",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": []
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Minor",
+            "Elective"
+        ],
+        "reviews_count": 2,
+        "resources_count": 0,
+        "favorited_by_count": 2,
+        "review_requesters_count": 0,
+        "resource_requesters_count": 0,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "6003404f-45b3-4fa4-af6a-5fbb9e70de05",
+                "user_profile": {
+                    "id": "489fc5a1-170f-4dd5-8e9c-186f254edd35",
+                    "name": "Tanirika Roy",
+                    "ldap_id": "200020150",
+                    "profile_picture": null
+                },
+                "course": "BB415",
+                "parent": null,
+                "body": "<b>Name:</b> Tanirika Roy<br><b>Roll Number:</b> 200020150<br><b>Year of Study:</b> to-be 4th Year<br><b>Section:</b> S2<br><b>Course:</b> BB415: Cell and Molecular Biology<br><b>Professor(s):</b> Prof. Swati Patankar<br><b>Course Type:</b> Minors Course<br><b>Semester:</b> Autumn (Odd)<br><b>Mode of Course:</b> Online<br><b>Frequency of the Course:</b> Every Year<br><b>Pre-Requisite:</b> Basic knowledge of genes, DNA, proteins and Class 10 Biology should be sufficient.<br><b>Learning Outcome:</b> The course had a project where we had to design a drug for any disease of our choice using the concept of Genetic Switch. Since the course had BSBE students as well, as a B. Tech student I learnt a lot during our interactions.<br><b>Pre-Midsem Course Content:</b> The first half was focused on cell structure, organelles, their functions, etc. This was followed by a deep dive into chromosomes, the way in which the term Central Dogma of Life came into existence and chronologically followed the steps to the discovery of the cell and genes as we know them today. We also studied about virus and bacteria. There was a quiz that required us to read a research paper by Meselson and Stahl and answer easy questions related to it.<br><b>Post-Midsem Course Content:</b> The later half was about RNA, DNA, transcription, mutations, suppression, etc.<br><b>Slides [Ease of Understanding]:</b> 3<br><b>Slides [Completeness]:</b> 3<br><b>Slides [Depth]:</b> 5<br><b>Slides [Usefulness for exams]:</b> 4<br><b>Teaching method:</b> The professor explained very well and tried to answer as many doubts as she could. The pace is a little difficult to keep up with at times. However, the professor is empathetic and you can approach her personally for any issues you are facing. She teaches the concepts in a way in which you don't have to remember much for exams. It's purely based on understanding and she stresses a lot on clarity of concept.<br><b>Grading Scheme:</b> Midsem: 30% Endsem: 45% Quiz: 10% Project: 15%<br><b>Feedback on Evaluation:</b> The evaluation was really binary because the questions were short answer type and you either know it or you don't. The questions however were very application based. There were little to no questions on remembering what terms mean or knowing the function of something. To answer the paper you would have to attend classes and understand what is taught.<br><b>Nature of the Course: Time Needed:</b> Moderate<br><b>Nature of the Course: Level of Difficulty of Understanding:</b> Heavy<br><b>Course Grading:</b> Moderate<br><b>Course Grading Review:</b> Minor grades were pretty fair. Not harsh but not like AAs were distributed for free. AB and BB was easy to get.<br><b>Reference Texts:</b> Slides were sufficient. Certain papers were to be read which are shared by the professor during the course. During our time we had to read a paper by Watson & Crick and another by Meselson and Stahl. You do have to do your own research for the project though.<br><b>Photo:</b> nan<br><b>Comments:</b> nan<br>",
+                "timestamp": "2023-07-27T17:40:27.307041+05:30",
+                "pinned": false,
+                "voters_count": 0
+            },
+            {
+                "id": "93e477e9-d2c5-4c2b-99d0-d81ce8b21720",
+                "user_profile": {
+                    "id": "4542fa38-c2da-42e5-906d-685cc41bf259",
+                    "name": "ResoBin Admin",
+                    "ldap_id": "NA",
+                    "profile_picture": null
+                },
+                "course": "BB415",
+                "parent": null,
+                "body": "<h4 id=\"instructor\">Instructor</h4>\n<p>Swati Patankar</p>\n\n<h4 id=\"semester\">Semester</h4>\n<p>Autumn ‘20</p>\n\n<h4 id=\"course-difficulty\">Course Difficulty</h4>\n<p>Course was fairly easy if you are interested in Cell and Molecular Biology as it covered the basics of it.</p>\n\n<h4 id=\"time-commitment-required\">Time Commitment Required</h4>\n<p>It will give you a feel of reading research papers hence if you are research oriented I suggest you give a certain amount of time to this course. Studying one day before the exams will also suffice, but paying attention in class will be more helpful, in my opinion.</p>\n\n<h4 id=\"grading-policy-and-statistics\">Grading Policy and Statistics</h4>\n<p>The grading was a bit disappointing, as after making the exams and assignments so fun, a majority of us who did pretty good ended up getting 7s and 8s. The grading was absolute.</p>\n\n<h4 id=\"attendance-policy\">Attendance Policy</h4>\n<p>There was no attendance policy as such but the classes were interesting enough to compel us to attend them.</p>\n\n<h4 id=\"pre-requisites\">Pre-requisites</h4>\n<p>The first couple of modules in BB101 will help a bit, other than that this course covers the basics of cell and molecular biology.</p>\n\n<h4 id=\"evaluation-scheme\">Evaluation Scheme</h4>\n<p>Weightage was evenly distributed with the midsem and endsem having higher weightages than the quizzes and assignments.</p>\n\n<h4 id=\"topics-covered-in-the-course\">Topics Covered in the Course</h4>\n<p>Universal features of cells; cell chemistry and biosynthesis: chemical organization of cells; internal organization of the cell - cell membranes: structure of cell membranes and concepts related to compartmentalization in eukaryotic cells; intracellular organelles: endoplasmic reticulum and Golgi apparatus, lysosomes and peroxisomes, ribosomes, cellular cytoskeleton, mitochondria, chloroplasts and cell energetics; nuclear compartment: nucleus, nucleolus and chromosomes. Chromatin organization - histone and DNA interactome: structure and assembly of eukaryotic and prokaryotic DNA polymerases, DNA-replication, repair and recombination; chromatin control: gene transcription and silencing by chromatin Writers,-Readers and –Erasers; Transcriptional control: Structure and assembly of eukaryotic and prokaryotic RNA Polymerases, promoters and enhancers, transcription factors as activators and repressors, trancriptional initiation, elongation and termination; post-transcriptional control: splicing and addition of cap and tail, mRNA flow through nuclear envelope into cytoplasm, breakdown of selective and specific mRNAs through interference by small non-coding RNAs (miRNAs and siRNAs), protein translation machinery, ribosomes-composition and assembly; universal genetic codes, degeneracy of codons, Wobble hypothesis;</p>\n\n<h4 id=\"teaching-style\">Teaching Style</h4>\n<p>The mechanism of teaching was MS Teams and the teaching style was quite unique. The professor had a very friendly disposition and her classes were very interesting. Some lectures were recorded videos, which we had to watch before attempting quizzes. So it was a mixture of live classes and recorded videos.</p>\n\n<h4 id=\"tutorialsassignmentsprojects\">Tutorials/Assignments/Projects</h4>\n<p>The Assignments were quite simple and at the same time very intellectually stimulating as it required us to read various research papers and answer questions based on it.</p>\n\n<h4 id=\"feedback-on-exams\">Feedback on Exams</h4>\n<p>The exams were actually fun. It consisted of questions in the form of stories and the questions were based on concepts that were taught in class. For example, the midsem consisted of a story based on the movie “The Lord Of The Rings”.</p>\n\n<h4 id=\"motivation-for-taking-this-course\">Motivation for taking this course</h4>\n<p>I had completed a bit of BB101 and a course on Genetics and Genetic Engineering during the summer and thought this course was ideal for me to further delve into my interest in Cell and Molecular Bio.</p>\n\n<h4 id=\"course-highlights\">Course Highlights</h4>\n<p>The highlights were definitely the interactive classes and the exams. It was one of the courses where you are excited to give the exams as they were quite interesting.</p>\n\n<h4 id=\"course-importance\">Course Importance</h4>\n<p>It is important if you want to enter the field of Biotechnology as it covers the basics of Genetics and Cell and Molecular Biology.</p>\n\n<h4 id=\"how-strongly-would-i-recommend-this-course\">How strongly would I recommend this course?</h4>\n<p>If you are even a tad bit interested in Bio, this course is a good start as it is quite basic and covers all the important aspects of Cell and Molecular Biology in an interesting way.</p>\n\n<h4 id=\"when-to-take-this-course\">When to take this course?</h4>\n<p>I took this course in the Autumn of 2020, which was my third semester. I would suggest not to take the course during this time as the core courses themselves are quite heavy, maybe take it when it is offered during the Autumn Semester other than when it clashes with your third semester.</p>\n\n<h4 id=\"going-forward\">Going Forward</h4>\n<p>You can check out other interesting courses from the BSBE Department if you liked this course and take up minors or ALCs.</p>\n\n<h4 id=\"references-used\">References Used</h4>\n<p>Molecular Biology of the Cell (5th Ed.). New York: Garland Science. 2. Lodish, H. F. (2016). Molecular Cell Biology (8th Ed.). New York: W.H. Freeman. 3. Krebs, J. E., Lewin, B., Kilpatrick, S. T., &amp; Goldstein, E. S. (2014). Lewin`s Genes XI. Burlington,</p>\n\n<p><em>BB 415 Review By:</em> Siddhant Wagh</p>\nWe thank the Mechanical DAMP team for this review",
+                "timestamp": "2022-12-18T01:19:13.562058+05:30",
+                "pinned": false,
+                "voters_count": 0
+            }
+        ]
+    },
+    {
+        "code": "BB602",
+        "title": "Research philosophy",
+        "department": {
+            "name": "Biosciences & Bioengineering",
+            "slug": "biosciences-bioengineering"
+        },
+        "description": "Introduction to philosophizing: language, truth and logic. A review of history of philosophy of science. Scientific imagination; case studies of Mendel and Galileo. The scientific methods in the practice of biology. The success of reductionist approach to problems in molecular biology. Contrast with holistic (higher level) biology. Resurgence of interest in global approaches like- systems biology, complexity and various “Omics”. Richness of biology in cyclical phenomena with interdependent parallel processes, feedback loops and networks. Emergent properties of the system. The concept of Causality in light of extant complexity. Complexity and indeterminacy in Biology. Historical contingency and evolution. History, nature and the future of Biology: Physics-biology interface during the classical period; biology as an independent science during the 19th and 20th centuries (the major concepts and their evolution); the nature of explanation in modern biology; the future directions. The interface between Biology (Genetics) and Society: some controversies. Darwinism, Lamarckism and Creationism; Eugenics, its history and future; ELSIfication of biology. Genetic screening; Evolution of ethics and ethics in post-genomic society. Bio-safety and environmental concerns. Molecular organizing principles of living systems. Ontogenic theories based on molecular self-organization. Importance of template replication and macromolecular catalysis. Protein first or DNA first conundrum. RNA world hypothesis. Present consensus and remaining challenges.",
+        "credits": 6,
+        "category": "Interdisciplinary STEM Course.",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": [
+                    {
+                        "id": 9652,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB602",
+                        "division": "Core",
+                        "lecture_slots": [
+                            "8A",
+                            "8B"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LT 301",
+                        "professor": "Swati Arvind Patankar"
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Minor",
+            "Elective"
+        ],
+        "reviews_count": 1,
+        "resources_count": 0,
+        "favorited_by_count": 2,
+        "review_requesters_count": 0,
+        "resource_requesters_count": 0,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "094718ab-bdcf-4353-83c3-fe1c3e56128a",
+                "user_profile": {
+                    "id": "729ea3e8-91b7-4c94-a311-5c3161bc4e97",
+                    "name": "Shreedhar Malpani",
+                    "ldap_id": "200020132",
+                    "profile_picture": null
+                },
+                "course": "BB602",
+                "parent": null,
+                "body": "<h1> Awareness and Motivation </h1>\r\nI got to know about the course from my senior friends who were planning to take it because of its lavish grading statistics. The course is on Research Philosophy. To me, both the ‘philosophy’ and the ‘research’ parts seemed very appealing as I wanted to gain a perspective on life in research and to explore if it was for me or not. Apart from that, there was also the incentive of increasing my cpi :)\r\n<br>\r\n<br>\r\n<h1> Course Curriculum </h1>\r\nThe course curriculum covered was quite different from the one mentioned on ASC. But as the name suggests - ‘ Research Philosophy,’ in the first half of the course, the ethics involved in research were covered. Particular emphasis was given to plagiarism, honor in giving credits, and ethically obtaining experimental data, and the following were substantiated with the help of highly interactive classes, exciting case studies, and real-life examples. The curriculum was designed to make us better scientists. We learned how to read a research paper, the rules behind maintaining a lab notebook, writing & organizing our paper, and finally publishing it. Everything was covered, from how and where to publish our research paper? .. to even making a scientific presentation.\r\n<br>\r\n<br>\r\n<h1> Rigour and Time Commitment </h1>\r\nI can confidently say that in terms of the rigor, BB602 is by far one of the chillest courses I have taken till now. Doing it along with Mechanical’s hectic 4th sem, the course turned out to be a huge boon.<br>\r\nFollowing was the marks weightage for the course -<br>\r\n<ul>\r\n    <li>\r\n        Homeworks (8 in total) - 10% each = 80%        \r\n    </li>\r\n    <li>\r\n        Attendance - 20%        \r\n    </li>\r\n</ul>\r\n(Initially, a 20% group presentation was also planned, but that got canceled.)\r\n<br>\r\n<br>\r\nYess! We did not have any midsem or endsem exams. We only used to have weekly assignments. The weekly assignments were quite interesting and, after the deadline, were even discussed in the class, making the entire course very engaging. An assignment could take anywhere from 30min/1hr to 4 hours to complete in some weeks.<br>\r\n\r\nSo, in general, you can expect a time commitment of 4-5 hours per week- 3 hours of lectures + 1-2 hours for the assignment. That, mixed with no load during midsems and endsems, made the pace of the course really comfortable.\r\n<br>\r\n<br>\r\n<h1> Pros and Cons </h1>\r\n<b>Pros:</b>\r\n<ul>\r\n    <li>\r\n        To some extent, the course helped me get a better insight into the field of research, covering the hardships researchers face and the practices that make a good scientist.\r\n    </li>\r\n    <li>\r\n        The grading was very generous, with more than 50% of the class receiving an AA grade. Anyone who regularly did the assignments got an easy 10.\r\n    </li>\r\n    <li>\r\n        The instructor for the course was very approachable and made the classes very interactive, to the point that the lecture seemed much more of a discussion.\r\n    </li>\r\n</ul>\r\n<br>\r\n<b>Cons:</b>\r\n<ul>\r\n    <li>\r\n        I was really looking forward to the philosophy aspect of the course but it was not covered in much detail. Instead, in the latter half, the course focused much on the basics of English Grammar and writing.\r\n    </li>\r\n    <li>\r\n        People who are not at all inclined towards research may find the course content boring and redundant. The course is more suited to post-grad students.\r\n    </li>\r\n</ul>\r\n<br>\r\n<h1> Relevance of the Course to the Career Path</h1>\r\nThe course delivered to my expectations and gave me a better idea of life as a researcher. As an undergraduate, I took the course along with graduate students pursuing their Masters and PhDs. It really presented an entirely new side of academia to me and made me aware of the various opportunities in academics as a career.",
+                "timestamp": "2022-12-19T15:55:40.972399+05:30",
+                "pinned": false,
+                "voters_count": 3
+            }
+        ]
+    },
+    {
+        "code": "BB610",
+        "title": "Biomedical Microsystems",
+        "department": {
+            "name": "Biosciences & Bioengineering",
+            "slug": "biosciences-bioengineering"
+        },
+        "description": "Introduction; Photolithography; Crystallography, Mask Design Wet and Dry Etching; Thin Film Deposition and Growth Electroplating, Molding, LIGA, Bonding and Sacrificial Processes, Polymer Processing and Rapid Prototyping, u-TAS: Fluid Control Components, Sample Handling, Separation Components and Detection, Cell Handling and Characterization Systems, Systems for Biotechnology and PCR, Miniature Biosensors, Biosensor Arrays and Implantable Devices Neural Interfaces, Microsurgical Tools, Microneedles, and Drug Delivery, Miniature Bioreactors and Microsystems for Tissue Engineering, Optical Biosensors, Packaging of Microfluidic and Optical Systems, Nanotechnology, Metrology",
+        "credits": 6,
+        "category": "Interdisciplinary STEM Course.",
+        "semester": [
+            {
+                "year": 2026,
+                "season": "spring",
+                "timetable": [
+                    {
+                        "id": 9654,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB610",
+                        "division": "Core",
+                        "lecture_slots": [
+                            "5A",
+                            "5B"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LA 002",
+                        "professor": "Rohit Srivastava"
+                    },
+                    {
+                        "id": 9655,
+                        "created_by": "bd6806b6-2cdb-455d-a873-67b4f4f12157",
+                        "course": "BB610",
+                        "division": "Minor",
+                        "lecture_slots": [
+                            "5A",
+                            "5B"
+                        ],
+                        "tutorial_slots": [],
+                        "lecture_venue": "LA 002",
+                        "professor": "Rohit Srivastava"
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "season": "autumn",
+                "timetable": []
+            }
+        ],
+        "tags": [
+            "Theory",
+            "Minor",
+            "Elective"
+        ],
+        "reviews_count": 1,
+        "resources_count": 14,
+        "favorited_by_count": 12,
+        "review_requesters_count": 31,
+        "resource_requesters_count": 32,
+        "cutoffs": {
+            "cutoff": null
+        },
+        "reviews": [
+            {
+                "id": "57f429ff-606c-4a32-a785-0d1edaf05663",
+                "user_profile": {
+                    "id": "cc5430b2-5e2c-4c0f-918c-97cbbe545497",
+                    "name": "Saksham Zanjari",
+                    "ldap_id": "200020115",
+                    "profile_picture": null
+                },
+                "course": "BB610",
+                "parent": null,
+                "body": "<b>Name:</b> Saksham Zanjari<br><b>Roll Number:</b> 200020115<br><b>Year of Study:</b> to-be 4th Year<br><b>Section:</b> S1<br><b>Course:</b> BB610: Biomedical Microsystems<br><b>Professor(s):</b> Prof. Rohit Srivastava<br><b>Course Type:</b> Institute Elective<br><b>Semester:</b> Spring (Even)<br><b>Mode of Course:</b> Online<br><b>Frequency of the Course:</b> Every Year<br><b>Pre-Requisite:</b> Basic BB101 knowledge will help you grasp the concepts better. Although, the instructor particularly makes it a point to teach things from scratch so sailing through the course will not be an issue.<br><b>Learning Outcome:</b> The course is about micro level practises used in biology like photolithography, crystallography, etching etc.<br><b>Pre-Midsem Course Content:</b> Photolithography, Etching, Thin Film Deposition, Systems for biotechnology and PCR. Etching is very crucial. Most of the questions in tests etc. would come from this part.<br><b>Post-Midsem Course Content:</b> Optical Biotechnology, Nanotechnology, Metrology etc. You can refer to ASC for better view of syllabus covered.<br><b>Slides [Ease of Understanding]:</b> 2<br><b>Slides [Completeness]:</b> 3<br><b>Slides [Depth]:</b> 3<br><b>Slides [Usefulness for exams]:</b> 5<br><b>Teaching method:</b> The professor is genuinely passionate about the topic. He involves himself into teaching the course and taking it to deeper levels for those interested.<br><b>Grading Scheme:</b> Midsem: 25%, Endsem: 50%, Project: 25%<br><b>Feedback on Evaluation:</b> Midsem and Endsem are mostly MCQs (atleast that was the case in 2022). Projects are fairly easy and generally require bit of internet search to get the exact material.<br><b>Nature of the Course: Time Needed:</b> Light<br><b>Nature of the Course: Level of Difficulty of Understanding:</b> Moderate<br><b>Course Grading:</b> Very Lenient<br><b>Course Grading Review:</b> Best grading you will ever get<br><b>Reference Texts:</b> 'Microsystem Technologyin Chemistry and Life Sciences' by A. Manz and H. Becker, Springer-Verlag, New York, 1999, 'Fundamentals of Microfabrication: The Science of Miniaturization' by Marc J. Madou, Second Edition, CRC Press; 2nd edition, 2002<br><b>Photo:</b> nan<br><b>Comments:</b> nan<br><br>",
+                "timestamp": "2023-07-27T17:40:27.386272+05:30",
+                "pinned": false,
+                "voters_count": 1
+            }
+        ]
+    }
+]
