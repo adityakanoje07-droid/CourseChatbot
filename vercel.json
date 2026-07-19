@@ -3,10 +3,7 @@
   "builds": [
     {
       "src": "app.py",
-      "use": "@vercel/python",
-      "config": {
-        "includeFiles": "chroma_storage/**"
-      }
+      "use": "@vercel/python"
     }
   ],
   "routes": [
