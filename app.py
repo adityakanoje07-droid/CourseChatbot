@@ -13,6 +13,11 @@ load_dotenv()  # Load environment variables from .env file
 
 app = Flask(__name__)
 
+# --- STEP 2: ChromaDB Path Configuration ---
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CHROMA_PATH = os.path.join(BASE_DIR, "chroma_storage")
+chroma_client = chromadb.PersistentClient(path=CHROMA_PATH)
+
 
 # --- GitHub Inference Client Configuration ---
 ENDPOINT = "https://models.github.ai/inference"
