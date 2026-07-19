@@ -14,11 +14,7 @@ load_dotenv()  # Load environment variables from .env file
 app = Flask(__name__)
 
 
-client = chromadb.CloudClient(
-  api_key='ck-J3465wAFVQXVgsWBy8qSstswxzL6bfUCPAK3L2kzcCTV',
-  tenant='a0fc18fc-ea5a-43af-843d-7058d7ff5df6',
-  database='chroma_storage'
-)
+chroma_client = chromadb.CloudClient()
 
 
 # --- GitHub Inference Client Configuration ---
