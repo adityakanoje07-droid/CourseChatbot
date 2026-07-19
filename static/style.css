@@ -1,0 +1,244 @@
+/* ==========================================
+   🎯 Premium Modern UI Layout (Glassmorphism)
+   ========================================== */
+
+:root {
+    --primary-color: #3b82f6;        /* Vibrant, clean blue accent */
+    --primary-hover: #1d4ed8;        /* Deeper corporate blue for interactive hover states */
+    --chat-bg: rgba(22, 25, 41, 0.75); /* Deep dark semi-transparent window base */
+    --text-main: #ffffff;            /* Sharp white readable text */
+    --text-muted: #94a3b8;           /* Muted slate text color */
+    --user-bubble: #1d4ed8;          /* Rich deep blue for user chat messages */
+    --bot-bubble: rgba(255, 255, 255, 0.08); /* Frosted, subtle light gray frame */
+    --border-color: rgba(255, 255, 255, 0.08); /* Clean modern divider frame borders */
+}
+
+/* --- Global Background Setup --- */
+body { 
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; 
+    background-image: url('background1.jpg'); 
+
+    /* Fixes the extreme zoom and centering */
+    background-size: cover;        /* Scales the image to fill the entire screen */
+    background-position: center;   /* Keeps the image centered perfectly */
+    background-repeat: no-repeat;  /* Prevents the image from tiling */
+    background-attachment: fixed;  /* Keeps the bg static if the user scrolls */
+
+    margin: 0; 
+    padding: 0; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+    color: var(--text-main);
+}
+
+/* --- Chat Main Frame Container (Glassmorphism Effect) --- */
+.chat-container { 
+    width: 440px; 
+    height: 650px; 
+    background: var(--chat-bg); 
+    backdrop-filter: blur(12px);         /* Creates the frosted glass effect */
+    -webkit-backdrop-filter: blur(12px); /* Safari support */
+    border: 1px solid rgba(255, 255, 255, 0.1); /* Subtle white border accent */
+    border-radius: 16px; 
+    box-shadow: 0 10px 32px rgba(0, 0, 0, 0.35); 
+    display: flex; 
+    flex-direction: column; 
+    overflow: hidden;
+}
+
+/* --- Sleek Top Banner Header --- */
+.chat-header { 
+    padding: 20px; 
+    background: rgba(255, 255, 255, 0.03); 
+    border-bottom: 1px solid var(--border-color);
+    font-weight: 600; 
+    font-size: 1.05rem;
+    text-align: center; 
+    letter-spacing: 0.5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.status-badge {
+    background: rgba(46, 204, 113, 0.2);
+    color: #2ecc71;
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: bold;
+}
+
+/* --- Chat Log Viewport Scroll Box --- */
+.chat-box { 
+    flex: 1; 
+    padding: 20px; 
+    overflow-y: auto; 
+    display: flex;
+    flex-direction: column;
+    gap: 4px; /* Handled gracefully alongside bubble margin */
+    scroll-behavior: smooth;
+}
+
+/* Custom Minimalist Scrollbar Design */
+.chat-box::-webkit-scrollbar {
+    width: 6px;
+}
+.chat-box::-webkit-scrollbar-track {
+    background: transparent;
+}
+.chat-box::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+.chat-box::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.35);
+}
+
+/* --- Universal Base Message Bubble Layout --- */
+.message { 
+    margin-bottom: 16px; 
+    padding: 12px 16px; 
+    border-radius: 14px; 
+    max-width: 78%; 
+    font-size: 0.95rem;
+    line-height: 1.5;
+    animation: fadeInBubble 0.25s ease-out forwards;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* User Dialogue Bubble Variant */
+.user-msg { 
+    background: var(--user-bubble); 
+    margin-left: auto; 
+    color: #ffffff; 
+    border-bottom-right-radius: 2px;
+}
+
+/* Chatbot Dialogue Bubble Variant */
+.bot-msg { 
+    background: var(--bot-bubble); 
+    margin-right: auto; 
+    color: var(--text-main); 
+    border-bottom-left-radius: 2px;
+    white-space: pre-wrap; 
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* --- Suggested Prompts Element Container --- */
+.suggested-prompts {
+    padding: 0 20px 8px 20px;
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.suggested-prompts::-webkit-scrollbar {
+    height: 0px; /* Hide prompt horizontal scrollbar for clean UI */
+}
+
+.prompt-btn {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #cbd5e1;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.prompt-btn:hover {
+    background: rgba(255, 255, 255, 0.18);
+    color: #ffffff;
+    transform: translateY(-1px);
+}
+
+/* --- Typing Status Indicator --- */
+.typing-indicator {
+    padding: 0 20px 8px 20px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+/* --- Bottom Input Area Form Tray Container --- */
+.input-area { 
+    display: flex; 
+    padding: 16px 20px; 
+    background: rgba(0, 0, 0, 0.2);
+    border-top: 1px solid var(--border-color);
+    gap: 10px;
+    align-items: center;
+}
+
+/* Input Form Controls Field Styling */
+.input-area input { 
+    flex: 1; 
+    padding: 12px 16px; 
+    border: 1px solid rgba(255, 255, 255, 0.1); 
+    border-radius: 24px; 
+    outline: none; 
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
+    background: rgba(255, 255, 255, 0.05);
+    color: #ffffff;
+}
+
+.input-area input:focus {
+    border-color: var(--primary-color);
+    background: rgba(255, 255, 255, 0.08);
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.25);
+}
+
+.input-area input::placeholder {
+    color: #64748b;
+}
+
+/* Action Trigger Submit Button Styling (Pill / Circular Variant) */
+.input-area button { 
+    background: var(--primary-color); 
+    color: white; 
+    border: none; 
+    padding: 0;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%; 
+    cursor: pointer; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);
+}
+
+.input-area button:hover { 
+    background: var(--primary-hover);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.5);
+}
+
+.input-area button:active {
+    transform: translateY(0);
+}
+
+/* --- Entrance Animations --- */
+@keyframes fadeInBubble {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

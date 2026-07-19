@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Course Chatbot Assistant</title>
+    <!-- 🎯 Link your external stylesheet dynamically -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<!-- <div class="chat-container">
+    <div class="chat-header">🎓 Course Chatbot Assistant</div>
+    <div class="chat-box" id="chatBox">
+        <div class="message bot-msg">Hello! Ask me anything about university departments, credits, or specific course syllabi.</div>
+    </div>
+    <div class="input-area">
+        <input type="text" id="userInput" placeholder="Type course code or keyword (e.g., ma105)..." onkeypress="if(event.key === 'Enter') sendMessage()">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+</div> -->
+<div class="chat-container">
+    <!-- Header Area -->
+    <div class="chat-header">
+        <div class="header-title">
+            🎓 Course Chatbot Assistant
+        </div>
+    </div>
+
+    <!-- Chat Box Logs Container (Matches your JavaScript ID) -->
+    <div class="chat-box" id="chatBox">
+        <div class="message bot-msg">
+            Hello! Ask me anything about university departments, credits, or specific course syllabi.
+        </div>
+    </div>
+
+    <!-- Suggested Quick Prompts Tray -->
+    <div class="suggested-prompts">
+        <button class="prompt-btn">View Syllabi</button>
+        <button class="prompt-btn">Check Credits</button>
+        <button class="prompt-btn">Course Reviews</button>
+    </div>
+
+    <!-- Typing Indicator -->
+    <div class="typing-indicator" id="typingIndicator" style="display: none;">Bot is typing...</div>
+
+    <!-- Input Footer Form Tray (Matches your CSS and JS layout) -->
+    <div class="input-area">
+        <input type="text" id="userInput" placeholder="Type course code or keyword (e.g., ma105)..." autocomplete="off">
+        <button type="button" onclick="sendMessage()">Send</button>
+    </div>
+</div>
+
+
+<!-- 🎯 Link your external JavaScript dynamically -->
+<script src="{{ url_for('static', filename='chat.js') }}"></script>
+
+</body>
+</html>
